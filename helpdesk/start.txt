@@ -1,0 +1,10 @@
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Strona pomocy technicznej salezIT</div>
+<div class='memberText'>
+<p>salezIT jest samozwańczą organizacją powołaną do zarządzania szkolnym systemem informatycznym i utrzymywania go w dobrej kondycji. Staramy się także dodawać nowe funkcjonalności do systemu tak, by jeszcze lepiej służył on szkolnej społeczności Collegium Salesianum w Bydgoszczy.</p>
+<p style='margin-top:1em'>Aby przejść do interesującej się kategorii, kliknij jej nazwę na pasku powyżej.</p>
+<p style='text-align:center; margin-top:1em'><img class='salezITLogo' src='images/salezIT.png'></img></p>
+</div>
+</div>
+</div>

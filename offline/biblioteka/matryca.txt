@@ -1,0 +1,29 @@
+﻿200 %atytuł
+201 %fautor
+205 %awydanie
+210 %amwydania %cwydawnictwo %drok
+215 %aobj %bilustracje %cformat %ddokumenttow
+225 %aseria
+230 %xISBN
+300 %auwagi
+600 %asłowoklucz
+680 %aUKD
+820 %anrinw %bsygnatura
+
+a†
+cŤ
+e‘
+l’
+n¤
+o˘
+sž
+z¦
+z§
+AŹ
+C•
+EL
+śN
+ĄO
+ŁS
+Z 
+Zˇ

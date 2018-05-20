@@ -1,0 +1,84 @@
+﻿<html>
+<meta charset='UTF-8'>
+<style>
+body
+{
+	background-color:rgba(50,50,50,1);
+	padding:20px 20px 20px 20px;
+	font-family:Trebuchet MS;
+}
+div.conversationWindowContainer
+{
+	width:500px;
+	height:600px;
+	
+}
+div.conversationWindow
+{
+	border: 1px solid black;
+	background-color:rgba(255,255,255,1);
+	padding:10px;
+}
+textarea.newMessageText
+{
+	width:100%;
+	height:80px;
+	resize:none;
+	font-family:Trebuchet MS;
+}
+p.recipientName
+{
+	background: -webkit-linear-gradient(to top, rgba(0,84,166,0.8) 0%, rgba(0,84,166,0) 100%);
+	background: -o-linear-gradient(to top, rgba(0,84,166,0.8) 0%, rgba(0,84,166,0) 100%);
+	background: -moz-linear-gradient(to top, rgba(0,84,166,0.8) 0%, rgba(0,84,166,0) 100%);
+	background: linear-gradient(to top, rgba(0,84,166,0.8) 25%, rgba(0,84,166,0) 100%);
+	color:#FFFFFF;
+	font-size:18px;
+	padding:10px 10px 10px 10px;
+	margin-bottom:0px;
+}
+div.listedMessages
+{
+	padding-bottom:10px;
+	font-size:14px;
+	height:100%;
+	overflow:auto;
+}
+div.sentMessage
+{
+	text-align:right;
+}
+div.receivedMessage
+{
+	text-align:left;
+}
+</style>
+<body>
+<div class='conversationWindowContainer'>
+<p class='recipientName'>Ksawery Iksiński</p>
+<div class='conversationWindow'>
+<div class='listedMessages'>
+<div class='sentMessage' alt='wysłano dnia: 01-07-2014 o godzinie: 18:40:05'>
+<p><span style='vertical-align:middle;'>Siemka</span><img src='..\images\defaultprofile.png' style='vertical-align:middle; height:25px; margin-left:10px;'></span></p>
+</div>
+<div class='receivedMessage'>
+<p><img src='..\images\defaultprofile.png' style='vertical-align:middle; height:25px; margin-right:10px;'></span><span style='vertical-align:middle;'>Cześć</span></p>
+</div>
+</div>
+<div class='writingMessage'>
+<textarea class='newMessageText' onkeypress='handle'>Tekst</textarea>
+<script>
+	function handle(e)
+	{
+		if(e.keyCode===13)
+		{
+			alert('Wysyłanie');
+		}
+	}
+</script>
+<p style='text-align:right; margin-top:0px; margin-bottom:5px;'><button onclick="alert('Wysyłanie');">Wyślij</button>
+<div>
+</div>
+</div>
+</body>
+</html>

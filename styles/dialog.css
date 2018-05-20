@@ -1,0 +1,30 @@
+#dialogWindowContainer
+{
+	position: fixed;
+	top:0;
+	bottom: 0;
+	left:0;
+	right: 0;
+	z-index:100;
+	display: none;
+}
+#dialogWindow
+{
+	border:2px solid black;
+	z-index: 101;
+	margin:100px auto;
+	width: 400px;
+	display: none;
+}
+#dialogWindowTitleContainer
+{
+	background-color: #888888;
+	color:#FFFFFF;
+	padding:10px;
+}
+#dialogWindowContent
+{
+	background-color: #FFFFFF;
+	padding:10px;
+	text-align:center;
+}

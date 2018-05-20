@@ -1,0 +1,53 @@
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Jak dostać się do swoich plików na serwerze.</div>
+<div class='memberText'>
+<p><ol>
+<li>Logujemy się w domenie.</li>
+<li>Włączamy okno „Mój komputer” lub „Komputer”.</li>
+<li>Szukamy dysku sieciowego nazwanego naszą nazwą użytkownika.</li>
+<li>Otwieramy.</li>
+<li>Cieszymy się z powodzenia :)</li>
+</ol>
+</p>
+<p style='margin-top:1em'>Na naszym dysku sieciowym możemy przechowywać nasze dane i będą one dostępne z każdego komputera w domenie.</p>
+<p style='text-align:center; margin-top:1em'><img style='width:40%; height:40%' src='images/hddone.png'></img></p>
+</div>
+</div>
+</div>
+
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Jak dostać się do swoich plików na serwerze (inna metoda)</div>
+<div class='memberText'>
+<p>Aby dostać się do swoich plików na serwerze z komputera niepodłączonego do domeny (np. prywatnego laptopa) robimy następująco:
+<ol>
+<li>Po ujrzeniu pulpitu wciskamy Windows+R</li>
+<li>W oknie wpisujemy \\nas1\imie.nazwisko</li>
+<li>Wciskamy Enter.</li>
+<li>W okienku autoryzacji wpisujemy SDB\imie.nazwisko oraz swoje hasło w domenie.</li>
+<li>Znów Enter.</li>
+<li>Cieszymy się z powodzenia :)</li>
+</ol>
+</p>
+<p style='text-align:center; margin-top:1em'><img style='width:40%; height:40%' src='images/hddtwo.png'></img></p>
+</div>
+</div>
+</div>
+
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Dodatkowe dyski sieciowe</div>
+<div class='memberText'>
+<p>Nauczyciele oprócz swojego dysku ze swoimi plikami widzą także dyski służące do udostępniania uczniom plików w sieci szkolnej: 
+<ul>
+<li>„Aplikacje” -> dla uczniów SPTS 0-3</li>
+<li>„Udostępnione spts4-6” -> dla uczniów SPTS 4-6</li>
+<li>„Udostępnione” -> dla uczniów GiLOTS</li>
+</ul>
+</p>
+<p style='margin-top:1em'>Można tam umieszczać pliki dla uczniów, które będą oni mogli jedynie odczytać i skopiować do innego katalogu na komputerze, ale nie mogą ich zmodyfikować.</p>
+<p style='text-align:center; margin-top:1em'><img style='width:40%; height:40%' src='images/plushdd.png'></img></p>
+</div>
+</div>
+</div>

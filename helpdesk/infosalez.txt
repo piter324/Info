@@ -1,0 +1,118 @@
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Poradnik użytkownika INFO.salez</div>
+<div class='memberText'>
+<p>Zapraszam do lektury :)</p>
+<p style='text-align:center; margin-top:1em'><img style='width:40%; height:40%' src='images/logo-info.png'></img></p>
+</div>
+</div>
+</div>
+
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Jak zalogować się po raz pierwszy?</div>
+<div class='memberText'>
+<p><ol>
+<li>Wchodzimy na info.salez.edu.pl</li>
+<li>Klikamy na przycisk „Pierwsze logowanie?”</li>
+<li>Wprowadamy swoje imię, nazwisko, hasło początkowe (lista haseł powinna być wysłana mailem przez Księdza Henryka) oraz nowe, wymyślone przez siebie hasło oraz adres e-mail, który będzie potrzebny do kolejnych logowań.</li>
+<li>Akceptujemy użycie plików cookie.</li>
+<li>Klikamy „Zapisz i zaloguj”.</li>
+<li>Cieszymy się z powodzenia :)</li>
+</ol>
+</p>
+</div>
+</div>
+</div>
+
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Jak zalogować się po raz wtóry?</div>
+<div class='memberText'>
+<p><ol>
+<li>Wchodzimy na info.salez.edu.pl</li>
+<li>Wprowadzamy swój adres e-mail oraz hasło (nie hasło początkowe).</li>
+<li>Akceptujemy użycie plików cookie.</li>
+<li>Klikamy „Zaloguj”.</li>
+<li>Cieszymy się z powodzenia :)</li>
+</ol>
+</p>
+</div>
+</div>
+</div>
+
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Jak zmienić swoje dane po zalogowaniu?</div>
+<div class='memberText'>
+<p><ol>
+<li>Logujemy się do INFO.salez</li>
+<li>Klikamy MENU w prawym górnym rogu strony.</li>
+<li>Wybieramy z rozwiniętego menu odpowiednią opcję i klikamy na nią.</li>
+<li>Postępujemy zgodnie z instrukcją w oknie.</li>
+<li>Cieszymy się z powodzenia :)</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Jak wyświetlać wydarzenia?</div>
+<div class='memberText'>
+<p><ol>
+<li>Logujemy się do INFO.salez.</li>
+<li>Aby przejść do następnego lub poprzedniego miesiąca klikamy > lub <. By przejść do następnego lub poprzedniego roku klikamy >> lub <<.</li>
+<li>Aby wyświetlić wydarzenia na żądany dzień, wybieramy odpowiedni miesiąc i rok (punkt 2), a następnie klikamy na dzień w kalendarzu. Po prawej stronie wyświetli się lista wydarzeń na wybrany dzień.</li>
+<li>Aby wyświetlić wydarzenia klasowe, klikamy na „klasowe” obok „Pokaż:” na liście po prawej stronie pod datą. Analogicznie robimy z wydarzeniami grupowymi oraz indywidualnymi.</li>
+<li>Cieszymy się z powodzenia :)</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Jak filtrować wydarzenia?</div>
+<div class='memberText'>
+<p><ol>
+<li>Wyświetlamy wydarzenia na wybrany dzień zgodnie z instrukcjami na poprzednim slajdzie.</li>
+<li>Z listy rozwijanej po kliknięciu w pole obok „Filtruj klasy:” lub „Filtruj grupy:” (w zależności od wybranego typu wydarzeń) wybieramy klasę/grupę dla której wydarzenia chcemy widzieć.</li>
+<li>Aby powrócić do wyświetlania wydarzeń bez filtrowania, wybieramy z listy „wszystkie…”.</li>
+<li>Cieszymy się z powodzenia :)</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Jak usunąć wydarzenie?</div>
+<div class='memberText'>
+<p><ol>
+<li>Logujemy się do INFO.salez.</li>
+<li>Wyświetlamy listę wydarzeń na wybrany dzień (wg wcześniejszych instrukcji)</li>
+<li>Klikamy na wydarzeniu, które chcemy usunąć.</li>
+<li>Klikamy „usuń”.</li>
+<li>Cieszymy się z powodzenia :)</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Jak zmodyfikować wydarzenie?</div>
+<div class='memberText'>
+<p><ol>
+<li>Logujemy się do INFO.salez.</li>
+<li>Wyświetlamy listę wydarzeń na wybrany dzień (wg wcześniejszych instrukcji)</li>
+<li>Klikamy na wydarzeniu, które chcemy zmodyfikować.</li>
+<li>Klikamy „edytuj”.</li>
+<li>Modyfikujemy informacje o wydarzeniu.</li>
+<li>Klikamy „Gotowe”.</li>
+<li>Cieszymy się z powodzenia :)</li>
+</ol>
+</div>
+</div>
+</div>

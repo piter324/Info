@@ -1,0 +1,59 @@
+div#dialogBox
+{
+	position:fixed;
+	display: none;
+	border:3px solid #AAAAAA;
+	#box-shadow: 0px 0px 20px 10px #BBBBBB;
+	z-index:100;
+}
+div#dialogBoxTitleBar
+{
+	font-size:20px;
+	background-color: rgba(0,0,0,1);
+	color:rgba(255,255,255,1);
+	padding:10px;
+}
+div#dialogBoxContent
+{
+	font-size: 18px;
+	padding:20px;
+	background-color: rgba(255,255,255,1);
+	color:#000000;
+}
+div#dialogBoxTitle
+{
+
+}
+div#closingx
+{
+	float: right;
+}
+img.closingxwhite
+{
+	height: 20px;
+	width: 20px;
+}
+div#dialogBoxButtons
+{
+	background-color: rgba(200,200,200,1);
+	text-align: right;
+}
+button.dialogBoxButton
+{
+	padding:5px;
+	#border: 3px solid #555555;
+	border:0px;
+	background-color: inherit;
+	font-size: 14px;
+}
+div#dialogSpace
+{
+	position: fixed;
+	top:0;
+	bottom: 0;
+	left:0;
+	right: 0;
+	background-color: rgba(0,0,0,0);
+	display: none;
+	z-index: 1000;
+}

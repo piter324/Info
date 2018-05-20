@@ -1,0 +1,1340 @@
+﻿002  %fa %b1
+100  %1MUZYCZUK, Piotr
+200  %aa†cŤe‘l’n¤o˘sžz¦z§-AŹC•ELśNĄOŁSZ Zˇ
+201  %fPiotr Muzyczuk
+205  %aWyd.2.-
+210  %aWarszawa %cCzytelnik %d2014
+215  %a345s. %bil. %c20cm. %d(p’yta CD)
+225  %a"Z’ota seria"
+230  %x83-3456-345
+300  %a(powiežŤ dla gimnazjalist˘w)
+600  %aPowiežŤ polska
+680  %a821.162.1-3
+820  %a19213 %b82-3
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik wyraz˘w obcych PWN
+205  %aWyd. popr. i uzupe’n.
+210  %aWarszawa %cWydawn.Nauk.PWN %d1991
+215  %a928s. %c24cm.
+230  %x83-01-08730-7
+600  %aS’ownik wyraz˘w obcych
+680  %a811.162.1`373.45`374
+820  %a1 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik wyraz˘w obcych PWN
+205  %aWyd. popr. i uzupe’n.
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1991
+215  %a928s. %c24cm.
+230  %x83-01-08730-7
+600  %aS’ownik wyraz˘w obcych
+680  %a811.162.1`373.45`374
+820  %a2 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik wyraz˘w obcych PWN
+205  %aWyd. popr. i uzupe’n.
+210  %aWarszawa %cWydawn.Nauk.PWN %d1991
+215  %a928s. %c24cm.
+230  %x83-01-08730-7
+600  %aS’ownik wyraz˘w obcych
+680  %a811.162.1`373.45`374
+820  %a3 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik wyraz˘w obcych PWN
+205  %aWyd. popr. i uzup.
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1991
+215  %a928s. %c24cm.
+230  %x83-01-08730-7
+600  %aS’ownik wyraz˘w obcych
+680  %a811.162.1`373.45`374
+820  %a4 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik wyraz˘w obcych
+205  %aWyd. popr. i uzupe’n.
+210  %aWarszawa %cWydawn.Nauk.PWN %d1991
+215  %a928s. %c24cm.
+230  %x83-01-08730-7
+600  %aS’ownik wyraz˘w obcych
+680  %a811.162.1`373.45`374
+820  %a5 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik wyraz˘w obcych PWN
+205  %aWyd. popr. i uzupe’n.
+210  %aWarszawa %cWydawn.Nauk.PWN %d1991
+215  %a928s. %c24cm.
+230  %x83-01-08730-7
+600  %aS’ownik wyraz˘w obcych
+680  %a811.162.1`373.45`374
+820  %a6 %b81 Pd
+
+002  %fa %b1
+100  %1SKORUPKI, pod red.Stanis’awa
+200  %aS’ownik wyraz˘w bliskoznacznych
+201  %fpod red.Stanis’awa Skorupki
+205  %aWyd.16.-
+210  %aWarszawa %cPa¤stw.Wydawn."Wiedza Powszechna" %d1989
+215  %a448s. %c20cm.
+230  %x83-214-0328-X
+600  %aS’ownik wyraz˘w bliskoznacznych
+680  %a81'373.42'374
+820  %a7 %b81
+
+002  %fa %b1
+100  %1SKORUPKI, pod red.Stanis’awa
+200  %aS’ownik wyraz˘w bliskoznacznych
+201  %fpod red.Stanis’awa Skorupki
+205  %aWyd.16.-
+210  %aWarszawa %cPa¤stw.Wydawn."Wiedza Powszechna" %d1989
+215  %a448s. %c20cm.
+230  %x83-214-0328-X
+600  %aS’ownik wyraz˘w bliskoznacznych
+680  %a81'373.42'374
+820  %a8 %b81
+
+002  %fa %b1
+100  %1SKORUPKI, pod red.Stanis’awa
+200  %aS’ownik wyraz˘w bliskoznacznych
+201  %fpod red.Stanis’awa Skorupki
+205  %aWyd.16.-
+210  %aWarszawa %cPa¤stw.Wydawn."Wiedza Powszechna" %d1985
+215  %a448s. %c20cm.
+230  %x83-214-0328-X
+600  %aS’ownik wyraz˘w bliskoznacznych
+680  %a811.162.1`373.43`374
+820  %a9 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik ortograficzny j‘zyka polskiego wraz z zasadami pisowni i 
+     interpunkcji
+205  %aWyd.8.-
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1986
+215  %a909s. %c24cm.
+230  %x83-01-05654-1
+300  %a(oprac.zasad pisowni i interpunkcji polskiej prof.dr Mieczys’aw Szymczak
+600  %aS’ownik ortograficzny
+680  %a811.162.1`35`374`
+820  %a10 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik ortograficzny j‘zyka polskiego wraz z zasadami pisowni i 
+     interpunkcji
+205  %aWyd.15.-
+210  %aWarszawa %cWydawn.Nauk.PWN %d1992
+215  %a909s. %c24cm.
+230  %x83-01-05654-1
+300  %a(Oprac.zasad pisowni i interpunkcji polskiej prof.dr Mieczys’aw Szymczak
+600  %aS’ownik ortograficzny
+600  %aJ‘zyk polski
+680  %a811.162.1`35`374
+820  %a11 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik ortograficzny j‘zyka polskiego wraz z zasadami pisowni i 
+     interpunkcji
+205  %aWyd.15.-opr.
+210  %aWarszawa %cWydawn.Nauk.PWN %d1992
+215  %a909s. %c24cm.
+230  %x83-01-05654-1
+300  %a(0prac.zasad pisowni i interpunkcji polskiej prof.dr Mieczys’aw Szymczak)
+600  %aS’ownik ortograficzny
+680  %a811.162.1`35`374
+820  %a12 %b81 Pd
+
+002  %fa %b1
+100  %1CIUPAK , Edward
+200  %aReligia i religijnožŤ
+201  %fEdward Ciupak
+210  %aWarszawa %cPa¤stw.Wydawn."ISKRY" %d1982
+215  %a265s. %c20cm.
+230  %x83-207-0432-4
+600  %aReligia
+680  %a2:248
+820  %a13 %b2
+
+002  %fa %b2
+100  %1SKORUPKA, Stanis’aw
+200  %aS’ownik frazeologiczny j‘zyka polskiego
+201  %fStanis’aw Skorupka
+205  %aWyd.6.-
+210  %aWarszawa %cPa¤stw.Wydawn."Wiedza Powszechna" %d1989
+215  %a905s. %c24cm.
+230  %x83-214-0432-4
+200  %xTom.2 %aR-ˇ
+600  %aS’ownik frazeologiczny
+600  %aJ‘zyk polski
+680  %a811.162.1`373.7`374
+820  %a14 %b81 Pd
+
+002  %fa %b2
+100  %1SKORUPKO, Stanis’aw
+200  %aS’ownik frazeologiczny j‘zyka polskiego
+201  %fStanis’aw Skorupko
+205  %aWyd.6.-
+210  %aWarszawa %cPa¤stw.Wydawn."Wiedza Powszechna" %d1989
+215  %a788s. %c24cm.
+230  %x83-214-0432-4
+200  %xTom.1 %aA-P
+600  %aS’ownik frazeologiczny
+600  %aJ‘zyk polski
+680  %a811.162.1`373.7`374
+820  %a15 %b81 Pd
+
+002  %fa %b2
+100  %1SśOWNIK
+200  %aS’ownik j‘zyka polskiego
+205  %aWyd.6.-
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1979
+215  %a1087s. %c24cm.
+230  %x83-01-00282-4
+200  %xTom.2 %aS’ownik j‘zyka polskiego L-P
+600  %aS’ownik j‘zyka polskiego
+680  %a811.162.1`374
+820  %a16 %b81 Pd
+
+002  %fa %b2
+100  %1SśOWNIK
+200  %aS’ownik j‘zyka polskiego
+205  %aWyd.6.-
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1981
+215  %a1103s. %c24cm.
+230  %x83-01-00284-0
+200  %xTom.3 %aS’ownik j‘zyka polskiego R-ˇ
+600  %aS’ownik j‘zyka polskiego
+680  %a811.162.1`374
+820  %a17 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik poprawnej polszczyzny
+205  %aWyd.16.-
+210  %aWarszawa %cWydawn.Nauk.PWN %d1980
+215  %a1056s. %c24cm.
+230  %x83-01-03811-X
+600  %aS’ownik poprawnej polszczyzny
+680  %a811.162.1`374
+820  %a18 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik poprawnej polszczyzny
+205  %aWyd.16.-
+210  %aWarszawa %cWydawn.Nauk.PWN %d1980
+215  %a1056s. %c24cm.
+230  %x83-01-03811-X
+600  %aS’ownik poprawnej polszczyzny
+680  %a811.162.1`374
+820  %a19 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik poprawnej polszczyzny
+205  %aWyd.16.-
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1980
+215  %a1056s. %c24cm.
+230  %x83-01-03811-X
+600  %aS’ownik poprawnej polszczyzny
+680  %a811.162.1`374
+820  %a20 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik poprawnej polszczyzny
+205  %aWyd.16.-
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1980
+215  %a1056s. %c24cm.
+230  %x83-01-03811-X
+600  %aS’ownik poprawnej polszczyzny
+680  %a811.162.1`374
+820  %a21 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik poprawnej polszczyzny
+205  %aWyd.16.-
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1980
+215  %a1056s. %c24cm.
+230  %x83-01-03811-X
+600  %aS’ownik poprawnej polszczyzny
+680  %a811.162.1`374
+820  %a22 %b81 Pd
+
+002  %fa %b1
+100  %1SśOWNIK
+200  %aS’ownik poprawnej polszczyzny
+205  %aWyd.16.-
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1980
+215  %a1056s. %c24cm.
+230  %x83-01-03811-X
+600  %aS’ownik poprawnej polszczyzny
+680  %a811.162.1`374
+820  %a23 %b81 Pd
+
+002  %fa %b1
+100  %1KURZOWA, Zofia
+100  %1ZGŁśKOWA, Halina
+200  %aS’ownik minimum j‘zyka polskiego
+201  %fZofia Kurzowa, Halina Zg˘’kowa
+210  %aPozna¤ %cKantor Wydawn.SAWW %d1992
+215  %a215s. %c20cm.
+230  %x83-85066-63-2
+300  %aPodr‘cznik do nauki j‘zyka polskiego dla szk˘’ podstawowych i 
+     obcokrajowc˘w)
+600  %aS’ownik j‘zyka polskiego
+600  %aPodr‘cznik
+680  %a811.162.1`374(075.2)
+820  %a24 %b81 Pd
+
+002  %fa %b1
+100  %1KURZOWA, Zofia
+100  %1ZGŁśKOWA, Halina
+200  %aS’ownik minimum j‘zyka polskiego
+201  %fZofia Kurzowa, Halina Zg˘’kowa
+210  %aPozna¤ %cKantor Wydawn.SAWW %d1992
+215  %a215s. %c20cm.
+230  %x83-85066-63-2
+300  %aPodr‘cznik do nauki j‘zyka polskiego dla szk˘’ podstawowych i 
+     obcokrajowc˘w
+600  %aS’ownik j‘zyka polskiego
+600  %aPodr‘cznik
+680  %a811.162.1`374(075.2)
+820  %a25 %b81 Pd
+
+002  %fa %b1
+100  %1KURZOWA, Zofia
+100  %1ZGŁśKOWA, Halina
+200  %aS’ownik minimum j‘zyka polskiego
+201  %fZofia Kurzowa, Halina Zg˘’kowa
+210  %aPozna¤ %cKantor Wydawn.SAWW %d1992
+215  %a215s. %c20cm.
+230  %x83-85066-63-2
+300  %aPodr‘cznik do nauki j‘zyka polskiego dla szk˘’ podstawowych i 
+     obcokrajowc˘w
+600  %aS’ownik j‘zyka polskiego
+600  %aPodr‘cznik
+680  %a811.162.1`374(075.2)
+820  %a26 %b81 Pd
+
+002  %fa %b1
+100  %1KURZOWA, Zofia
+100  %1ZGŁśKOWA, Halina
+200  %aS’ownik minimum j‘zyka polskiego
+201  %fZofia Kurzowa, Halina Zg˘’kowa
+210  %aPozna¤ %cKantor Wydawn.SAWW %d1992
+215  %a215s. %c20cm.
+230  %x83-85066-63-2
+300  %aPodr‘cznik do nauki j‘zyka polskiego dla szk˘’ podstawowych i 
+     obcokrajowc˘w
+600  %aS’ownik j‘zyka polskiego
+600  %aPodr‘cznik
+680  %a811.162.1`374(075.2)
+820  %a27 %b81 Pd
+
+002  %fa %b1
+100  %1KURZOWA, Zofia
+100  %1ZGŁśKOWA, Halina
+200  %aS’ownik minimum j‘zyka polskiego
+201  %fZofia Kurzowa, Halina Zg˘’kowa
+210  %aPozna¤ %cKantor Wydawn.SAWW %d1992
+215  %a215s. %c20cm.
+230  %x83-85066-63-2
+300  %aPodr‘cznik do nauki j‘zyka polskiego dla szk˘’ podstawowych i 
+     obcokrajowc˘w
+600  %aS’ownik j‘zyka polskiego
+600  %aPodr‘cznik
+680  %a811.162.1`374(075.2)
+820  %a28 %b81 Pd
+
+002  %fa %b1
+100  %1KOPALIĄSKI, W’adys’aw
+200  %aS’ownik mit˘w i tradycji kultury
+201  %fW’adys’aw Kopali¤ski
+205  %aWyd.4.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1991
+215  %a1360s. %c24cm.
+230  %x83-06-02157-6
+600  %aMitologia
+600  %aHistoria kultury
+600  %aS’ownik tematyczny
+680  %a292:930.85(038)
+820  %a29 %b2 Pd
+
+002  %fa %b1
+100  %1SIEROTWIĄSKI, Stanis’aw
+200  %aS’ownik termin˘w literackich. Teoria i nauki pomocnicze literatury
+201  %fStanis’aw Sierotwi¤ski
+205  %aWyd.4.-
+210  %aWroc’aw %cZak’.Narod.im.Ossoli¤skich-Wydawn. %d1986
+215  %a307s. %c20cm.
+230  %x83-04-01914-0
+600  %aS’ownik termin˘w literackich
+680  %a82.0(038)
+820  %a30 %b82 Pd
+
+002  %fa %b1
+100  %1SśAWIĄSKIEGO, pod red.Janusza
+200  %aS’ownik termin˘w literackich
+201  %fpod red.Janusza S’awi¤skiego
+205  %aWyd. 2 poszerz. i popr.
+210  %aWroc’aw %cZak’.Narod.im.Ossoli¤skich-Wydawn. %d1988
+215  %a656s. %c24cm.
+225  %aVademecum Polonisty
+230  %x83-04-01787-3
+600  %aS’ownik termin˘w literackich
+680  %a82.0(038)
+820  %a31 %b82 Pd
+
+002  %fa %b1
+100  %1GśOWIĄSKI, Micha’
+100  %1OKOPIEĄ-SśAWIĄSKA, Aleksandra
+100  %1SśAWIĄSKI, Janusz
+200  %aZarys teorii literatury
+201  %fMicha’ G’owi¤ski, Aleksandra Okopie¤-S’awi¤ska, Janusz S’awi¤ski
+205  %aWyd.6 popr.
+210  %aWarszawa %cWydawn.Szkol.i Pedagog. %d1991
+215  %a541s. %c21cm.
+230  %x83-02-04400-8
+600  %aTeoria literatury
+680  %a82.0
+820  %a32 %b82
+
+002  %fa %b1
+100  %1GśOWIĄSKI, Micha’
+100  %1OKOPIEĄ-SśAWIĄSKA, Aleksandra
+100  %1SśAWIĄSKI, Janusz
+200  %aZarys teorii literatury
+201  %fMicha’ G’owi¤ski, Aleksandra Okopie¤-S’awi¤ska, Janusz S’awi¤ski
+205  %aWyd.6 popr.
+210  %aWarszawa %cWydawn.Szkol.i Pedagog. %d1991
+215  %a541s. %c21cm.
+230  %x83-02-04400-8
+600  %aTeoria literatury
+680  %a82.0
+820  %a33 %b82 Pd
+
+002  %fa %b1
+100  %1GśOWIĄSKI, Micha’
+100  %1OKOPIEĄ-SśAWIĄSKA, Aleksandra
+100  %1SśAWIĄSKI, Janusz
+200  %aZarys teorii literatury
+201  %fMicha’ G’owi¤ski, Aleksandra Okopie¤-S’awi¤ska, Janusz S’awi¤ski
+205  %aWyd.6 popr.
+210  %aWarszawa %cWydawn.Szkol.i Pedagog. %d1991
+215  %a541s. %c21cm.
+230  %x83-02-04400-8
+600  %aTeoria literatury
+680  %a82.0
+820  %a34 %b82
+
+002  %fa %b1
+100  %1STAFF,Leopold
+200  %aWyb˘r poezji
+201  %fLeopold Staff
+210  %aWroc’aw %cZak’.Narod.im.Ossoli¤skich -Wydawn. %d1963
+215  %a294s. %c17cm.
+225  %aBiblioteka Narodowa
+600  %aPoezja polska
+600  %aStaff Leopold
+680  %a821.162.1-1
+820  %a35 %b82-1
+
+002  %fa %b1
+100  %1PRZYśUBSKA, Ewa
+100  %1PRZYśUBSKI, Feliks
+200  %aGdzie postawiŤ przecinek?:Poradnik,przestankowanie ze s’owniczkiem
+201  %fEwa Przy’ubska,Feliks Przy’ubski
+205  %aWyd.3.-
+210  %aWarszawa %cPa¤stw.Wydawn."Wiedza Powszechna" %d1973
+215  %a255s. %c14cm.
+600  %aOrtografia
+600  %aJ‘zykoznawstwo
+680  %a811.162.1'35
+820  %a36 %b81
+
+002  %fa %b1
+100  %1URBAĄCZYK, wybra’ i oprac.Stanis’aw
+200  %aPolszczyzna pi‘kna i poprawna:Porady j‘zykowe
+201  %fwybra’ i oprac.Stanis’aw Urba¤czyk
+205  %aWyd.2.-
+210  %aWroc’aw %cZak’.Narod.im.Ossoli¤skich-Wydawn. %d1966
+215  %a703s. %c21cm.
+600  %aJ‘zyk polski
+600  %aJ‘zykoznawstwo
+680  %a811.162.1
+820  %a37 %b81
+
+002  %fa %b1
+100  %1HEINZ, Adam
+200  %aHistoria j‘zykoznawstwa
+201  %fAdam Heinz
+210  %aWroc’aw %cZak’.Narod.im.Ossoli¤skich-Wydawn. %d1979
+215  %a90s. %c18cm.
+225  %a"Nauka dla wszystkich"
+230  %x83-04-00357-0
+600  %aJ‘zykoznawstwo
+600  %aHistoria
+680  %a81'1(091)
+820  %a38 %b81
+
+002  %fa %b1
+100  %1SZOBER, Stanis’aw
+200  %aGramatyka j‘zyka polskiego
+201  %fStanis’aw Szober;oprac.Witold Doroszewski
+205  %aWyd.12.-
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1962
+215  %a390s. %c21cm.
+600  %aGramatyka
+600  %aJ‘zyk polski
+680  %a811.162.1'36
+820  %a39 %b81
+
+002  %fa %b1
+100  %1COURTENAY, Jan Baudouin de
+200  %aO j‘zyku polskim
+201  %fJan Baudouin de Courtenay
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1984
+215  %a453s. %c21cm.
+225  %aBiblioteka Filologii Polskiej-J‘zykoznawstwo
+230  %x83-01-04368-7
+600  %aJ‘zyk polski
+600  %aJ‘zykoznawstwo
+680  %a811.162.1
+820  %a40 %b81
+
+002  %fa %b1
+100  %1KLEINER, Juliusz
+100  %1MACIŹG, W’odzimierz
+200  %aZarys dziej˘w literatury polskiej
+201  %fJuliusz Kleiner, W’odzimierz Maci†g
+205  %aWyd.4.-
+210  %aWroc’aw %cZak’.Narod.im.Ossoli¤skich-Wydawn. %d1985
+215  %a616s. %b119il. %c24cm.
+230  %x83-04-01406-8
+600  %aHistoria literatury polskiej
+680  %a821.162.1(091)(438)
+820  %a41 %b82 Pd
+
+002  %fa %b2
+100  %1LITERATURA
+200  %aLiteratura polska. Przewodnik encyklopedyczny
+205  %aWyd.3.-
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1985
+215  %a702s. %bil. %c27cm.
+230  %x83-01-01520-9
+200  %xTom.1 %aLiteratura polska A-M
+600  %aHistoria literatury polskiej
+600  %aEncyklopedia
+680  %a821.162.1(091)(03)
+820  %a42 %b82 Pd
+
+002  %fa %b2
+100  %1LITERATURA
+200  %aLiteratura polska. Przewodnik encyklopedyczny
+205  %aWyd.3.-
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1985
+215  %a830s. %bil. %c27cm.
+230  %x83-01-01520-9
+200  %xTom.2 %aLiteratura polska N-ˇ
+600  %aHistoria literatury polskiej
+600  %aEncyklopedia
+680  %a821.162.1(091)(03)
+820  %a43 %b82 Pd
+
+002  %fa %b2
+100  %1LITERATURA
+200  %aLiteratura polska. Przewodnik encyklopedyczny
+205  %aWyd.3.-
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1985
+215  %a702s. %bil. %c27cm.
+230  %x83-01-01520-9
+200  %xTom.1 %aLiteratura polska A-M
+600  %aHistoria literatury polskiej
+600  %aEncyklopedia
+680  %a821.162.1(091)(03)
+820  %a44 %b82(03)Pd
+
+002  %fa %b2
+100  %1LITERATURA
+200  %aLiteratura polska. Przewodnik encyklopedyczny
+205  %aWyd.3.-
+210  %aWarszawa %cPa¤stw.Wydawn.Nauk. %d1985
+215  %a830s. %bil. %c27cm.
+230  %x83-01-01520-9
+200  %xTom.2 %aLiteratura polska N-ˇ
+600  %aHistoria literatury polskiej
+600  %aEncyklopedia
+680  %a821.162.1(091)(03)
+820  %a45 %b82(03)Pd
+
+002  %fa %b1
+100  %1Huizinga,Johan
+200  %aJesie¤ redniowiecza
+201  %fJohan Huizinga;prze’. Tadeusz Brzostowski i in
+205  %aWyd.4.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1992
+215  %a476s. %b24il.,16tabl.kol. %c24cm.
+230  %x83-06-02225-4
+600  %aEuropa
+600  %aHistoria-redniowiecze
+680  %a94(4)"04/14"
+820  %a46 %b94
+
+002  %fa %b1
+100  %1TRAWIĄSKI, Witold H.
+200  %aOdyseja Polskiej Armii B’‘kitnej
+201  %fWitold H. Trawi¤ski
+210  %aWroc’aw %cZak’.Narod.im.Ossoli¤skich-Wydawn. %d1989
+215  %a304s. %bil. %c21cm.
+230  %x83-04-03066-7
+600  %aWspomnienia
+680  %a821.162.1-94
+820  %a47 %b82-94
+
+002  %fa %b1
+100  %1STARNAWSKI, Jerzy
+200  %aredniowiecze
+201  %fJerzy Starnawski
+205  %aWyd.2 poprawione
+210  %aWarszawa %cWydawn.Szkol.i Pedagog. %d1989
+215  %a391s. %bil. %c21cm.
+225  %aBiblioteka "Polonistyki"
+230  %x83-02-03570-X
+600  %aHistoria literatury
+600  %aredniowiecze
+680  %a82(091)"04/14"
+820  %a48 %b82
+
+002  %fa %b1
+100  %1SIENKIEWICZ, Henryk
+200  %aQuo vadis
+201  %fHenryk Sienkiewicz
+205  %aWyd.25.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1983
+215  %a668s. %c20cm.
+230  %x83-06-01061-2
+600  %aSienkiewicz Henryk
+600  %aPowiežŤ historyczna
+600  %aLiteratura polska
+600  %aLektura
+680  %a821.162.1-311.6
+820  %a49 %b82-3
+
+002  %fa %b1
+100  %1SIENKIEWICZ, Henryk
+200  %aQuo vadis
+201  %fHenryk Sienkiewicz
+205  %aWyd.17.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1968
+215  %a668s. %c20cm.
+600  %aSienkiewicz Henryk
+600  %aPowiežŤ historyczna
+600  %aLiteratura polska
+600  %aLektura
+680  %a821.162.1-311.6
+820  %a50 %b82-3
+
+002  %fa %b1
+100  %1SIENKIEWICZ, Henryk
+200  %aQuo vadis
+201  %fHenryk Sienkiewicz
+205  %aWyd.3.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1982
+215  %a559s. %c20cm.
+230  %x83-06-00370-5
+600  %aSienkiewicz Henryk
+600  %aPowiežŤ historyczna
+600  %aLiteratura polska
+600  %aLektura
+680  %a821.162.1-311.6
+820  %a51 %b82-3
+
+002  %fa %b1
+100  %1SHAKESPEARE, William
+200  %aHamlet,ksi†§‘ Danii
+201  %fWilliam Shakespeare:przek’.Stanis’aw Bara¤czak
+210  %aPozna¤ %cWydawn."W drodze" %d1990
+215  %a206s. %bil. %c20cm.
+230  %x83-7033-056-8
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a52 %b82-2
+
+002  %fa %b1
+100  %1SHAKESPEARE, William
+200  %aHamlet,ksi†§‘ Danii
+201  %fWilliam Shakespeare;przek’.Stanis’aw Bara¤czak
+210  %aPozna¤ %cWydawn."W drodze" %d1990
+215  %a206s. %bil. %c20cm.
+230  %x83-7033-056-8
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a53 %b82-2
+
+002  %fa %b1
+100  %1SHAKESPEARE, William
+200  %aRomeo i Julia
+201  %fWilliam Shakespeare;prze’.Stanis’aw Bar¤czak
+205  %aWyd.2.-
+210  %aPozna¤ %cWydawn."W drodze" %d1992
+215  %a173s. %c19cm.
+230  %x83-7033-137-8
+600  %aShakespeare William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a54 %b82-2
+
+002  %fa %b1
+100  %1SHAKESPEARE, William
+200  %aRomeo i Julia
+201  %fWilliam Shakespeare;prze’.Stanis’aw Bara¤czak
+205  %aWyd.2.-
+210  %aPozna¤ %cWydawn."W drodze" %d1992
+215  %a173s. %c19cm.
+230  %x83-7033-137-8
+600  %aShakespeare William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a55 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn"ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a56 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a57 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a58 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a59 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a60 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a61 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.Maciej S’omczy¤ski
+210  %aKrak˘w %cWydawn.Zielona Sowa %d2000
+215  %a131s. %c20cm.
+230  %x83-86740-42-6
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a62 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a63 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a64 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a65 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a66 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a67 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a68 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a69 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.Maciej S’omczy¤ski,oprac.K.Miko’ajczewska
+210  %aKra˘w %cWydawn.Zielona Sowa %d2005
+215  %a149s. %c20cm.
+225  %aLektura z opracowaniem-Renesans
+230  %x83-7389-370-9
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a70 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a71 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a72 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia.
+201  %fWiliam Szekspir
+210  %aBydgoszcz %cArcanum %d1991
+215  %a135 s. %c20 cm
+230  %x83-85069-22-4
+680  %a82-2
+820  %a73 %b82-2 L
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a74 %b82-2
+
+002  %fa %b1
+100  %1SZEKSPIR, Wiliam
+200  %aRomeo i Julia
+201  %fWiliam Szekspir;prze’.J˘zef Paszkowski
+210  %aBydgoszcz %cOfic.Wydawn."ARCANUM" %d1991
+215  %a135s. %c19cm.
+225  %aBiblioteka Lektur
+230  %x83-85069-22-4
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a75 %b82-2
+
+002  %fa %b1
+100  %1SHAKESPEARE ,William
+200  %aHamlet,kr˘lewicz du¤ski
+201  %fWilliam Shakespeare
+205  %aWyd.13.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1978
+215  %a249s. %c18cm.
+230  %x83-7033-056-8
+600  %aSzekspir William
+600  %aDramat angielski
+600  %aLektura
+680  %a821.111-2
+820  %a76 %b82-2
+
+002  %fa %b1
+100  %1SOFOKLES
+200  %aAntygona
+201  %fSofokles;prze’.i napisa’ wst‘p Nikos Chadzinikolau
+210  %aPozna¤ %cDom Wydawn.REBIS %d1991
+215  %a54s. %c17cm.
+225  %aLektura Szkolna
+230  %x83-85202-13-7
+600  %aSofokles
+600  %aDramat grecki
+600  %aLektura
+680  %a821.14`02-2
+820  %a77 %b82-2
+
+002  %fa %b1
+100  %1SOFOKLES
+200  %aAntygona
+201  %fSofokles;t’.Kazimierz Morawski
+210  %aPozna¤ %cDom Wydawn."REBIS" %d1991
+215  %a48s. %c20cm.
+230  %x83-85202-13-7
+600  %aSofokles
+600  %aDramat grecki
+600  %aLektura
+680  %a821.14`02-2
+820  %a78 %b82-2
+
+002  %fa %b1
+100  %1SOFOKLES
+200  %aAntygona
+201  %fSofokles;prze’.i napisa’ wst‘p Nikos Chadzinikolau
+210  %aPozna¤ %cDom Wydawn.REBIS %d1991
+215  %a54s. %c17cm.
+225  %aLektura Szkolna
+230  %x83-85202-13-7
+600  %aSofokles
+600  %aDramat grecki
+600  %aLektura
+680  %a821.14`02-2
+820  %a79 %b82-2
+
+002  %fa %b1
+100  %1SOFOKLES
+200  %aAntygona
+201  %fSofokles;prze’.i napisa’ wst‘p Nikos Chadzinikolau
+210  %aPozna¤ %cDom Wydawn.REBIS %d1991
+215  %a54s. %c17cm.
+225  %aLektura Szkolna
+230  %x83-85202-13-7
+600  %aSofokles
+600  %aDramat grecki
+600  %aLektura
+680  %a821.14`02-2
+820  %a80 %b82-2
+
+002  %fa %b1
+100  %1SOFOKLES
+200  %aAntygona
+201  %fSofokles;prze’.Kazimierz Morawski
+210  %aRzesz˘w %cKraj.Agenc.Wydawn. %d1990
+215  %a67s. %c21cm.
+225  %aLektura Szkolna
+230  %x83-03-02973-8
+600  %aSofokles
+600  %aDramat grecki
+600  %aLektura
+680  %a821.14`02-2
+820  %a81 %b82-2
+
+002  %fa %b1
+100  %1SOFOKLES
+200  %aAntygona
+201  %fSofokles;prze’.Kazimierz Morawski
+210  %aRzesz˘w %cKraj.Agenc.Wydawn. %d1990
+215  %a67s. %c21cm.
+225  %aLektura Szkolna
+230  %x83-03-02973-8
+600  %aSofokles
+600  %aDramat grecki
+600  %aLektura
+680  %a821.14`02-2
+820  %a82 %b82-2
+
+002  %fa %b1
+100  %1SOFOKLES
+200  %aAntygona
+201  %fSofokles;prze’.Kazimierz Morawski
+210  %aRzesz˘w %cKraj.Agenc.Wydawn. %d1990
+215  %a67s. %c21cm.
+225  %aLektura Szkolna
+230  %x83-03-02973-8
+600  %aSofokles
+600  %aDramat grecki
+600  %aLektura
+680  %a821.14`02-2
+820  %a83 %b82-2
+
+002  %fa %b1
+100  %1SOFOKLES
+200  %aAntygona
+201  %fSofokles;prze’.Kazimierz Morawski
+210  %aRzesz˘w %cKraj.Agenc.Wydawn. %d1990
+215  %a67s. %c21cm.
+225  %aLektura Szkolna
+230  %x83-03-02973-8
+600  %aSofokles
+600  %aDramat grecki
+600  %aLektura
+680  %a821.14`02-2
+820  %a84 %b82-2
+
+002  %fa %b1
+100  %1SOFOKLES
+200  %aAntygona
+201  %fSofokles;prze’.Kazimierz Morawski
+210  %aRzesz˘w %cKraj.Agenc.Wydawn. %d1990
+215  %a67s. %c21cm.
+225  %aLektura Szkolna
+230  %x83-03-02973-8
+600  %aSofokles
+600  %aDramat grecki
+600  %aLektura
+680  %a821.14`02-2
+820  %a85 %b82-2
+
+002  %fa %b1
+100  %1SOFOKLES
+200  %aAntygona
+201  %fSofokles;prze’.Kazimierz Morawski
+210  %aRzesz˘w %cKraj.Agenc.Wydawn. %d1990
+215  %a67s. %c21cm.
+225  %aLektura Szkolna
+230  %x83-03-02973-8
+600  %aSofokles
+600  %aDramat grecki
+600  %aLektura
+680  %a821.14`02-2
+820  %a86 %b82-2
+
+002  %fa %b1
+100  %1HOMER
+200  %aOdyseja
+201  %fHomer; prze’. Lucjan Siemie¤ski,oprac.T.Sinko
+205  %aWyd.6.-
+210  %aWroc’aw %cZak’.Narod.im.Ossoli¤skich-Wydawn. %d1959
+215  %a356s. %c18cm.
+225  %aBiblioteka Narodowa
+600  %aHomer
+600  %aLiteratura grecka klasyczna
+600  %aLektura
+680  %a821.14`02-1
+820  %a87 %b82-1
+
+002  %fa %b1
+100  %1MOLIER
+200  %awi‘toszek(Tartuffe)Komedia w pi‘ciu aktach
+201  %fMolier;prze’.Tadeusz Boy-ˇele¤ski
+205  %aWyd.10.-
+210  %aWroc’aw %cZak’.Narod.im.Ossoli¤skich-Wydawn. %d1976
+215  %a151s. %c17cm.
+225  %aBiblioteka Narodowa
+600  %aMolier
+600  %aDramat francuski
+600  %aLektura
+680  %a821.133.1-2
+820  %a88 %b82-2
+
+002  %fa %b1
+100  %1OKOĄ, oprac.Jan
+200  %aStaropolskie pastora’ki dramatyczne:Antologia
+201  %foprac.Jan Oko¤
+210  %aWroc’aw %cZak’.Narod.im.Ossoli¤skich-Wydawn. %d1989
+215  %a375s. %c17cm.
+225  %aBiblioteka Narodowa
+230  %x83-04-02853-0
+600  %aPastora’ki
+600  %aAntologia
+680  %a821.162.1-2(082.2)
+820  %a89 %b82-2
+
+002  %fa %b1
+100  %1KADEN-BANDROWSKI, Juliusz
+200  %aGenera’ Barcz
+201  %fJuliusz Kaden-Bandrowski
+205  %aWyd.2.-
+210  %aWroc’aw %cZak’.Narod.im.Ossoli¤skich-Wydawn. %d1984
+215  %a422s. %c16cm.
+225  %aBiblioteka Narodowa
+230  %x83-04-01612-5
+600  %aKaden-Bandrowaki Juliusz
+600  %aPowiežŤ polska
+680  %a821.162.1-3
+820  %a90 %b82-3
+
+002  %fa %b1
+100  %1PASEK, Jan Chryzostom
+200  %aPami‘tniki
+201  %fJan Chryzostom Pasek ;oprac.Roman Pollak
+205  %aWyd.13.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1989
+215  %a327s. %c20cm.
+230  %x83-06-01926-1
+600  %aPasek Jan Chryzostom
+600  %aPami‘tniki
+600  %aLektura
+680  %a821.162.1-94
+820  %a91 %b82-94
+
+002  %fa %b1
+100  %1PASEK, Jan Chryzostom
+200  %aPami‘tniki
+201  %fJan Chryzostom Pasek ;oprac.Roman Pollak
+205  %aWyd.13.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1989
+215  %a327s. %c20cm.
+230  %x83-06-01926-1
+600  %aPasek Jan Chryzostom
+600  %aPami‘tniki
+600  %aLektura
+680  %a821.162.1-94
+820  %a92 %b82-94
+
+002  %fa %b1
+100  %1PASEK, Jan Chryzostom
+200  %aPami‘tniki
+201  %fJan Chryzostom Pasek ;oprac.Roman Pollak
+205  %aWyd.13.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1989
+215  %a327s. %c20cm.
+230  %x83-06-01926-1
+600  %aPasek Jan Chryzostom
+600  %aPami‘tniki
+600  %aLektura
+680  %a821.162.1-94
+820  %a93 %b82-94
+
+002  %fa %b1
+100  %1PASEK, Jan Chryzostom
+200  %aPami‘tniki
+201  %fJan Chryzostom Pasek ;oprac.Roman Pollak
+205  %aWyd.13.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1989
+215  %a327s. %c20cm.
+230  %x83-06-01926-1
+600  %aPasek Jan Chryzostom
+600  %aPami‘tniki
+600  %aLektura
+680  %a821.162.1-94
+820  %a94 %b82-94
+
+002  %fa %b1
+100  %1PASEK, Jan Chryzostom
+200  %aPami‘tniki
+201  %fJan Chryzostom Pasek ;oprac.Roman Pollak
+205  %aWyd.13.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1989
+215  %a327s. %c20cm.
+230  %x83-06-01926-1
+600  %aPasek Jan Chryzostom
+600  %aPami‘tniki
+600  %aLektura
+680  %a821.162.1-94
+820  %a95 %b82-94
+
+002  %fa %b1
+100  %1PASEK, Jan Chryzostom
+200  %aPami‘tniki
+201  %fJan Chryzostom Pasek;oprac.Roman Pollak
+205  %aWyd.13.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1989
+215  %a327s. %c20cm.
+230  %x83-06-01926-1
+600  %aPasek Jan Chryzostom
+600  %aPami‘tniki
+600  %aLektura
+680  %a821.162.1-94
+820  %a96 %b82-94
+
+002  %fa %b1
+100  %1PASEK, Jan Chryzostom
+200  %aPami‘tniki
+201  %fJan Chryzostom Pasek;oprac.Roman Pollak
+205  %aWyd.13.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1989
+215  %a327s. %c20cm.
+230  %x83-06-01926-1
+600  %aPasek Jan Chryzostom
+600  %aPami‘tniki
+600  %aLektura
+680  %a821.162.1-94
+820  %a97 %b82-94
+
+002  %fa %b1
+100  %1PASEK, Jan Chryzostom
+200  %aPami‘tniki
+201  %fJan Chryzostom Pasek;oprac.Roman Pollak
+205  %aWyd.13.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1989
+215  %a327s. %c20cm.
+230  %x83-06-01926-1
+600  %aPasek Jan Chryzostom
+600  %aPami‘tniki
+600  %aLektura
+680  %a821.162.1-94
+820  %a98 %b82-94
+
+002  %fa %b1
+100  %1PASEK, Jan Chryzostom
+200  %aPami‘tniki
+201  %fJan Chryzostom Pasek;oprac.Roman Pollak
+205  %aWyd.13.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1989
+215  %a327s. %c20cm.
+230  %x83-06-01926-1
+600  %aPasek Jan Chryzostom
+600  %aPami‘tniki
+600  %aLektura
+680  %a821.162.1-94
+820  %a99 %b82-94
+
+002  %fa %b1
+100  %1PASEK, Jan Chryzostom
+200  %aPami‘tniki
+201  %fJan Chryzostom Pasek ;oprac.Roman Pollak
+205  %aWyd.13.-
+210  %aWarszawa %cPa¤stw.Instyt.Wydawn. %d1989
+215  %a327s. %c20cm.
+230  %x83-06-01926-1
+600  %aPasek Jan Chryzostom
+600  %aPami‘tniki
+600  %aLektura
+680  %a821.162.1-94
+820  %a100 %b82-94
+

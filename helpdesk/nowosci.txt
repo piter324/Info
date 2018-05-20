@@ -1,0 +1,9 @@
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Nowości w systemie informatycznym Collegium Salesianum</div>
+<div class='memberText'>
+<p>Wszystkie nowości znajdziesz właśnie w tej sekcji, więc nie zapomnij zajrzeć do niej przy każdej wizycie.</p>
+<p style='text-align:center; margin-top:1em'><img style='width:40%; height:40%' src='images/4.png'></img></p>
+</div>
+</div>
+</div>

@@ -1,0 +1,1021 @@
+body
+{
+	#background: -webkit-linear-gradient(#FFFFFF, #6CC9E3); /* For Safari 5.1 to 6.0 */
+	#background: linear-gradient(#FFFFFF, #6CC9E3); /* Standard syntax */
+	#background-image:url('../images/backgrounds/default.jpg');
+	#background-size:cover;
+	margin: 0px 0px 0px 0px;
+    font-family:Trebuchet MS;
+	font-size:14px;
+	cursor:default;
+}
+input,textarea,select
+{
+	font-family:Trebuchet MS;
+}
+div.upbelt
+{
+	margin:0px auto 0px auto;
+	padding:1em 1em 1em 1em;
+	text-align:center;
+	background: -webkit-linear-gradient(to top, rgba(0,84,148,0.8) 0%, rgba(40,142,255,0.8));
+	background: -o-linear-gradient(to top, rgba(0,84,148,0.8) 0%, rgba(40,142,255,0.8));
+	background: -moz-linear-gradient(to top, rgba(0,84,148,0.8) 0%, rgba(40,142,255,0.8));
+	background: linear-gradient(to top, rgba(0,84,148,0.8) 0%, rgba(40,142,255,0.8));
+}
+div.upcontainer
+{
+	width:100%;
+	#background: -webkit-linear-gradient(to top, rgba(255,200,17,0.8) 0%, rgba(255,200,17,0.8) 24%, rgba(0,84,148,0.8) 24%, rgba(40,142,255,0.8));
+	#background: -o-linear-gradient(to top, rgba(255,200,17,0.8) 0%, rgba(255,200,17,0.8) 24%, rgba(0,84,148,0.8) 24%, rgba(40,142,255,0.8));
+	#background: -moz-linear-gradient(to top, rgba(255,200,17,0.8) 0%, rgba(255,200,17,0.8) 24%, rgba(0,84,148,0.8) 24%, rgba(40,142,255,0.8));
+	#background: linear-gradient(to top, rgba(255,200,17,0.8) 0%, rgba(255,200,17,0.8) 24%, rgba(0,84,148,0.8) 24%, rgba(40,142,255,0.8));
+}
+div.underupbelt
+{
+	#top:200;
+	#left:0;
+	#right:0;
+	#width:1040px;
+	#height:40px;
+	margin:0px auto 0px auto;
+	background-color:rgba(255,200,17,0.8);
+    text-align:center;
+    padding:1em 1em 1em 1em;
+}
+div.welcomeUsernameDropdown
+{
+	background-color:rgba(255,200,17,0.9);
+	border-radius:10px;
+	color:#000000;
+	display:none;
+	width:200px;
+	position:absolute;
+	left:0;
+	top:0;
+	padding:5px 5px 5px 5px;
+}
+div.container
+{
+	#border-radius:10px;
+	width:100%;
+	background-color:rgba(255,255,255,0.8);
+}
+div.calendarplusdetails
+{
+	width:100%;
+}
+div.calendar
+{
+	margin-top:20px;
+	padding:10px 10px 10px 10px;
+	background-color:rgba(160,220,225,1);
+}
+div.eventListCanvas
+{
+	background-color:rgba(230,210,255,1);
+	text-align:center;
+	margin-top:20px;
+	padding:10px 10px 10px 10px;
+}
+div.eventlistClass
+{
+	overflow:auto;
+	text-align:center;
+	#background-color:rgba(203,181,251,0.8);
+}
+div.eventlistIndiv
+{
+	text-align:center;
+	margin-top:20px;
+	display:none;
+}
+div.eventlistGroup
+{
+	text-align:center;
+	margin-top:20px;
+	display:none;
+}
+
+div.eventitselfClass
+{
+	background-color:rgba(70,200,255,0.8);
+	padding:0px 5px 0px 5px;
+	border-radius: 5px;
+	min-height:100px;
+}
+div.eventitselfIndividual
+{
+	background-color:rgba(255,200,139,0.8);
+	padding:0px 5px 0px 5px;
+	border-radius: 5px;
+	min-height:100px;
+}
+div.eventitselfGroup
+{
+	background-color:rgba(203,244,82,0.8);
+	padding:0px 5px 0px 5px;
+	border-radius: 5px;
+	min-height:100px;
+
+}
+div.ogloszenia
+{
+	background-color:rgba(100,100,200,0.8);
+	display:none;
+}
+div.ogloszeniauczniow
+{
+	background-color:rgba(100,100,100,0.8);
+	width:485px;
+	margin-right:30px;
+	float:left;
+}
+div.ogloszenianauidyr
+{
+	background-color:rgba(150,150,150,0.8);
+	width:485px;
+	float:right;
+}
+div.akcje
+{
+	display:none;
+}
+div.akcjemob
+{
+	margin-bottom:30px;
+	margin-top:30px;
+	text-align:center;
+}
+div.addcontent
+{
+	display:none;
+	position:fixed;
+	z-index:1;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	background-image:url('../images/black-back.png');
+}
+div.interactionwindow
+{
+	position:fixed;
+	#z-index:1;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	background-color:rgba(255,255,255,1);
+	border: 1px solid black;
+	text-align:center;
+	padding:10px 10px 10px 10px;
+	overflow:auto;
+}
+div.interactionWindowContent
+{
+	font-size:1em;
+}
+div.monthandyear
+{
+	font-size:2.5em;
+	text-align:center;
+}
+div.calendarcontrols
+{
+	margin-top:0px;
+	margin-bottom:2px;
+	text-align:center;
+}
+div.addEventCoveredClasses
+{
+	vertical-align:top;
+	display:inline-block;
+	max-height:300px;
+	width:40%;
+	overflow:auto;
+	text-align:left;
+	padding-left:20px;
+	font-size:1em;
+}
+div.addGroupCoveredPersons
+{
+	height:200px;
+	overflow:auto;
+	margin-top:0px;
+	text-align:left;
+	padding-left:20px;
+}
+div.addEventCoveredClassesList
+{
+	#position:relative;
+}
+div.addEventDate
+{
+	vertical-align:top;
+	display:inline-block;
+	width:40%;
+	overflow:auto;
+	text-align:left;
+	padding-left:20px;
+	font-size:1em;
+}
+input#datepicker
+{
+	width:60%;
+}
+div.eventActionDiv
+{
+	position:absolute;
+	background-color:rgba(0,0,0,0.5);
+	margin:auto 5px 10px 5px;
+	padding:5px 5px 5px 5px;
+	border-radius:5px;
+	text-align:center;
+	vertical-align:middle;
+}
+div.eventActionDivElement
+{
+	display:inline-block; 
+	margin-right:20px;
+	
+
+}
+div.groupList
+{
+	text-align:center;
+	width:100%;
+	height:300px;
+	overflow:auto;
+	margin-top:0px;
+	padding:0.1em 0.1em 0.1em 0.1em;
+}
+div.groupItself
+{
+	font-size:1em;
+	width:100%;
+	margin-bottom:5px;
+}
+div.groupName
+{
+	display:inline-block;
+	text-align:left;
+	width:60%;
+}
+div.groupAction
+{
+	display:inline-block; 
+	width:40%;
+	text-align:right;
+}
+div.messengerBelt
+{
+	width:100%;
+	display:none;
+	padding:5px 10px 5px 10px;
+	background-color:rgba(150,200,255,1);
+}
+div.menuBeltTrigger
+{
+	position:fixed;
+	top:0px;
+	right:-85px;
+	width:125px;
+	z-index:2000;
+	background-color:#EEEEEE;
+}
+div.messengerBeltFavorites
+{
+	background-image:url('../images/favorites_star03.png');
+	background-repeat:no-repeat;
+	background-position:center center;
+	min-height:100px;
+}
+div.messagingCanvas
+{
+	position:fixed;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	background-color:rgba(0,0,0,0.8);
+	display:none;
+}
+div.inlinowe
+{
+	display:inline-block;
+	vertical-align:middle;
+}
+div.listatypow
+{
+	font-size:1.1em;
+}
+div.filteringclass, div.filteringgroup
+{
+	margin-top:10px;
+	font-size:1.2em;
+}
+select#searchfieldclass, select#searchfieldgroup
+{
+	font-size:1em;
+}
+div.menuBeltSection a{
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:5px 10px 5px 10px;
+}
+p.userName{
+	font-size:14px;
+	text-align:center;
+}
+
+div#userName
+{
+	text-align:center;
+	font-size:18px;
+	color:rgba(240,240,240,1);
+}
+.cbp-spmenu a#doinfobiblioteka {
+	display: block;
+	color: #fff;
+	font-size: 14px;
+	font-weight:normal;
+	background: rgba(120,56,184,1);
+}
+
+.cbp-spmenu a#doinfobiblioteka:hover {
+	background: rgba(140,76,204,1);
+}
+.cbp-spmenu {
+	overflow:auto;
+	overflow-x:hidden;
+}
+td.nazwydni
+{
+	background-color:rgba(203,181,251,1);
+	height:50px;
+	text-align:center;
+	vertical-align:middle;
+	font-size:1.8em;
+}
+table#calendar
+{
+	width:100%;
+	#background-color:rgba(203,181,251,1);
+	table-layout: fixed;
+	border-collapse:collapse;
+	
+}
+td
+{
+	text-align:right;
+	vertical-align:top;
+	#min-height:80px;
+}
+td.roboczy
+{
+	background-color:rgba(255,255,255,0.8);
+	padding:0px 5px 0px 5px;
+	border:1px solid #AAAAAA;
+}
+td.sobota
+{
+	background-color:rgba(200,200,200,0.8);
+	padding:0px 5px 0px 5px;
+	border:1px solid #AAAAAA;
+}
+td.niedziela
+{
+	background-color:rgba(255,65,65,0.8);
+	padding:0px 5px 0px 5px;
+	border:1px solid #AAAAAA;
+}
+td.nieobecny
+{
+	background:none;
+}
+td.todayDay
+{
+	background-color:rgba(128,128,255,1);
+	color:rgba(255,255,255,1);
+}
+td.selectedDay
+{
+	border:5px solid #FFFF00;
+}
+p.nrdnia
+{
+	margin-top:5px;
+	font-size:1.2em;
+}
+p.eventlistSectionHeader
+{
+	margin-bottom:0px;
+	letter-spacing:2px;
+	font-size:16px;
+}
+p.eventdate
+{
+	font-size:2.5em;
+	margin-top:15px;
+	margin-bottom:0px;
+}
+p.eventdayoftheweek
+{
+	margin-top:0px;
+	letter-spacing:2px;
+	font-size:1.8em;
+}
+p.eventtext
+{
+	text-align:left;
+	margin-bottom:5px;
+	font-size:1.5em;
+}
+p.eventmetadata
+{
+	margin-top:0px;
+	text-align:right;
+	font-size:1em;
+}
+p.eventdetails
+{
+	font-style:italic;
+	font-size:1.2em;
+}
+p.classevent
+{
+	font-size:1em;
+	text-align:center;
+	margin: 20px 0px 5px 0px;
+	background-color:rgba(147,201,255,1);
+	border-radius:2px;
+}
+p.individualevent
+{
+	font-size:1em;
+	text-align:center;
+	margin: 0px 0px 5px 0px;
+	background-color:rgba(255,200,139,1);
+	border-radius:2px;
+}
+p.groupevent
+{
+	font-size:1em;
+	text-align:center;
+	margin: 0px 0px 5px 0px;
+	background-color:rgba(203,244,82,1);
+	border-radius:2px;
+}
+p.replacementsInCal
+{
+	font-size:13px;
+	text-align:center;
+	margin: 10px 0px 5px 0px;
+	background-color:rgba(255,220,235,0.9);
+	border-radius:2px;
+}
+p.interactionWindowHeader
+{
+	font-size:2.5em;
+	margin: 20px 30px 30px 30px;
+}
+p.addEventElement
+{
+	font-size:1em;
+}
+p.addEventDateElement
+{
+	margin-top:2px;
+	margin-bottom:2px;
+}
+p.dzisiaj
+{
+	text-align:center;
+	margin: -15px 10px 0px 10px;
+	font-weight:bold;
+	background-color:rgba(190,255,128,0.8);
+	border-radius:2px;
+}
+p.eventActionDivDescription
+{
+	font-size:1.5em;
+	margin-top:0px; 
+	margin-bottom:0px;
+	color:rgba(255,255,255,1);
+}
+p.copyrightFooter
+{
+	text-align:center;
+	margin-top:50px;
+	font-size:0.5em;
+}
+p.noEventInfo
+{
+	font-style:italic;
+	text-align:center;
+	margin-top:50px;
+	font-size:1.2em;
+}
+p.welcomeUsernameActionElement
+{
+	width:100%;
+	text-align:center;
+	margin:5px 0px 0px 0px;
+}
+p.welcomeUsernameActionElement:hover
+{
+	font-weight:bold;
+}
+p.messengerBeltHeader
+{
+	font-weight:bold;
+	font-size:18px;
+}
+p.messengerBeltUser
+{
+	#border:1px solid black;
+	padding:5px 5px 5px 5px;
+	margin-bottom:0px;
+	margin-top:0px;
+	min-height:40px;
+	vertical-align:middle;
+	font-size:16px;
+}
+p.czlonkowiegrupyHeader
+{
+ margin-bottom:0px; 
+ margin-top:0.8em;
+ font-size:1.3em;
+}
+span.nazwa
+{
+	color:rgba(255,255,255,1);
+	margin-left:10px;
+	vertical-align:middle;
+	display:inline-block;
+}
+span.welcomeUsername
+{
+	margin-right:1em;
+}
+span#dataimieniny
+{
+	
+}
+span.inlinowe
+{
+	vertical-align:middle;
+}
+a:link
+{
+	text-decoration:none;
+}
+a:hover
+{
+	font-weight:bold;
+}
+input.scopes
+{
+	height:1em;
+	width:1em;
+}
+div.interactionwindow input,textarea
+{
+	font-size:1em;
+	font-family:Trebuchet MS;
+}
+img#logocs
+{
+	width:30%;
+	height:30%;
+	margin-top:10px;
+	vertical-align:middle;
+}
+img#logoinfo
+{
+	width:60%;
+	height:60%;
+	margin-top:10px;
+	vertical-align:middle;
+}
+img#profiloweUpBelt
+{
+	margin-right:1em;
+	margin-left:1em;
+	width:40px; 
+	height:40px; 
+	border:2px solid #888888; 
+	border-radius:2px;
+}
+img#profiloweShowProfile
+{
+	width:90%;
+	height:90%;
+	border: 2px solid #888888;
+	border-radius:5px;
+}
+img.editdeleteSmall
+{
+	width:10px;
+	height:10px;
+}
+img.profiloweSmall
+{
+	width:40px; 
+	height:40px; 
+}
+img.circularPhoto
+{
+	border-radius:45px;
+}
+img.ui-datepicker-trigger
+{
+	width:1em;
+	height:1em;
+	margin-left:0.2em;
+}
+.addEventConfirm
+{
+	border-top:		2px solid #66FF66;
+	border-left:	2px solid #66FF66;
+	border-right:	2px solid #52CC29;
+	border-bottom:	2px solid #52CC29;
+	border-radius:	5px;
+	margin-top:		10px;
+	font-size:		2em;
+	background-color:	#99FF99;
+	font-weight:	bold;
+	font-family:	Trebuchet MS;
+	color:			#000000;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	
+}
+.addEventCancel
+{
+	border-top:		2px solid #FF6666;
+	border-left:	2px solid #FF6666;
+	border-right:	2px solid #FF0000;
+	border-bottom:	2px solid #FF0000;
+	border-radius:	5px;
+	margin-top:		10px;
+	font-size:		2em;
+	background-color:	#FFA3A3;
+	font-weight:	bold;
+	font-family:	Trebuchet MS;
+	color:			#000000;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	
+}
+.calControl
+{
+	width: 75px;
+	border-top:		2px solid #DDD9FF;
+	border-left:	2px solid #DDD9FF;
+	border-right:	2px solid #CCC7FE;
+	border-bottom:	2px solid #CCC7FE;
+	border-radius:	5px;
+	#padding:		2px 2px;
+	font-size:		1.8em;
+	background-color:	#DCC6FC;
+	font-weight:	bold;
+	font-family:	Trebuchet MS;
+	color:			#000000;
+	text-align:center;
+	
+}
+.addEvent
+{
+	width:100%;
+	border-radius:	5px;
+	padding:		10px 5px 10px 5px;
+	font-size:		1.5em;
+	font-weight:	bold;
+	font-family:	Trebuchet MS;
+	color:			#000000;
+	
+}
+button#pokazminusy
+{
+	border:1px solid #8888AA;
+	border-radius:	5px;
+	
+}
+.addClassEventButton
+{
+	background-color:rgba(147,201,255,1);
+	border-top:		2px solid #88BEE0;
+	border-left:	2px solid #88BEE0;
+	border-right:	2px solid #74AAE0;
+	border-bottom:	2px solid #74AAE0;
+}
+.addGroupEventButton
+{
+	background-color:rgba(203,244,82,1);
+	border-top:		2px solid #B4D36B;
+	border-left:	2px solid #B4D36B;
+	border-right:	2px solid #8CAB43;
+	border-bottom:	2px solid #8CAB43;
+}
+.addIndivEventButton
+{
+	background-color:rgba(255,200,139,1);
+	border-top:		2px solid #FFAA45;
+	border-left:	2px solid #FFAA45;
+	border-right:	2px solid #FFAE31;
+	border-bottom:	2px solid #FFAE31;
+}
+.addReplacement
+{
+	background-color:#FFB4FF;
+	border-top:		2px solid #FFA0FF;
+	border-left:	2px solid #FFA0FF;
+	border-right:	2px solid #FF80FF;
+	border-bottom:	2px solid #FF80FF;
+}
+button.logOut
+{
+	border-top:		2px solid #FFD700;
+	border-left:	2px solid #FFD700;
+	border-right:	2px solid #FFAD55;
+	border-bottom:	2px solid #FFAD55;
+	border-radius:	5px;
+	padding:		5px 5px;
+	font-size:		1.2em;
+	background-color:	#FFEE77;
+	font-weight:	bold;
+	font-family:	Trebuchet MS;
+	color:			#000000;
+	margin-left:	1em;
+	margin-right:	1em;
+}
+span.deletingFromFavorites
+{
+	margin-left:5px;
+	display:none;
+}
+span.wydwyd
+{
+	display:none;
+}
+div.conversationWindowContainer
+{
+	display:none;
+	position:fixed;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	padding:0px 0px 0px 0px;
+}
+div.conversationWindow
+{
+	border: 1px solid black;
+	background-color:rgba(255,255,255,1);
+	position:fixed;
+	top:45px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+}
+textarea.newMessageText
+{
+	width:100%;
+	height:40px;
+	resize:none;
+	font-family:Trebuchet MS;
+}
+textarea#eventdetails
+{
+	width:90%;
+	height:30%;
+}
+div.recipientName
+{
+	background: rgba(0,84,166,100);
+	color:#FFFFFF;
+	font-size:18px;
+	padding:10px 10px 10px 10px;
+	margin-bottom:0px;
+	height:30px;
+	z-index:1;
+}
+div.writingMessage
+{
+	position:fixed;
+	bottom:5px;
+	left:5px;
+	right:5px;
+	height:90px;
+	z-index:1;
+	padding:10px 10px 10px 10px;
+}
+div.listedMessages
+{
+	font-size:14px;
+	position:fixed;
+	top:50px;
+	bottom:100px;
+	left:5px;
+	right:5px;
+	overflow:auto;
+	z-index:1;
+}
+div.sentMessage
+{
+	text-align:right;
+}
+div.receivedMessage
+{
+	text-align:left;
+}
+span.unreadMessageText
+{
+	font-weight:bold;
+	max-width:20px;
+}
+span.readMessageText
+{
+	max-width:400px;
+}
+div.inbox
+{
+	width:100%;
+	padding:5px 5px 5px 5px;
+	margin-bottom:10px;
+}
+p.inboxHeader
+{
+	text-align:center;
+	font-size:20px;
+	font-weight:bold;
+}
+p.recipientInfoHeader
+{
+	font-weight:bold;
+	font-size:16px;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+div.messagesList
+{
+	background-image:url('../images/envelope20proc.png');
+	background-repeat:no-repeat;
+	background-position:center center;
+	min-height:80px;
+}
+div.recipientInfo
+{
+	display:inline-block; 
+	margin-left:10px;
+	vertical-align:middle;
+	max-width:220px;
+}
+div.recipientPhoto
+{
+	display:inline-block;
+	vertical-align:middle;
+}
+div#closingx
+{
+	position:fixed;
+	top:10px;
+	right:50px;
+}
+div#infoAboutColors
+{
+	width:100%;
+}
+img.emoticon
+{
+	width:25px;
+	height:25px;
+}
+div.replacements
+{
+	#width:100%;
+	font-size:16px;
+	background-color:rgba(255,220,235,0.9);
+	padding:5px 5px 5px 5px;
+}
+div#replacementsContent
+{
+	
+}
+div#replacementsList
+{
+	margin-top:5px;
+	background-color:rgba(255,255,255,0.5);
+	width:100%;
+	text-align:center;
+	#display:table;
+}
+div#tableHeader
+{
+	font-weight:bold;
+	display:table-row;
+}
+div.replacementItself
+{
+	display:table-row;
+}
+div.lessonNumber
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:5%;
+}
+div.roomNumber
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:5%;
+}
+div.replaced
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:30%;
+}
+div.replacing
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:30%;
+}
+div.replacementScope
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:10%;
+}
+div.replacementSubject
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:12%;
+}
+div.replacementEditDelete
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:8%;
+}
+div.replacementAction:hover
+{
+	font-weight:bold;
+}
+@media screen and (max-width:320px)
+{
+div.lessonNumber
+{
+
+}
+div.roomNumber
+{
+
+}
+div.replaced
+{
+
+}
+div.replacing
+{
+
+}
+div.replacementScope
+{
+	display:none;
+}
+div.replacementSubject
+{
+	display:none;
+}
+div.replacementEditDelete
+{
+	display:none;
+}
+}
+div#filteringReplacements
+{
+	background-color:rgba(255,255,255,0.5);
+	text-align:center;
+	display:none;
+}
+div#replacementsTitle
+{
+	font-size:26px;
+	text-align:left;
+	margin-bottom:20px;
+}
+div#akcjaZast
+{
+	text-align:center;
+	margin-top:10px;
+}
+p.noReplacementsInfo
+{
+	font-style:italic;
+	padding-top:2em;
+	padding-bottom:2em;
+}

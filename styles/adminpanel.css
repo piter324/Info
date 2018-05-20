@@ -1,0 +1,167 @@
+body
+{
+	font-family:"Noto Sans",sans-serif;
+	font-size:18px;
+	background-image:url('../images/backgrounds/background2-optimized.jpg');
+	background-size:cover;
+	margin:0px 0px 0px 0px;
+}
+div.upbelt
+{
+	background-color:rgba(255,255,255,1);
+	text-align:center;
+	margin: 0px;
+	padding: 5px;
+}
+div.servicesHub
+{
+	width:950px;
+	background-color:#FFFFFF;
+	padding:5px;
+	text-align:center;
+	margin:10px auto;
+}
+a:link
+{
+	text-decoration:none;
+}
+a:visited
+{
+	color:#2222DD;
+}
+a
+{
+	color:#2222DD;
+}
+p#entryComments
+{
+	text-align: left;
+	font-size: 18px;
+	margin-left: 5px;
+	font-style: italic;
+}
+div#entriesList
+{
+	font-size: 14px;
+}
+div#adveList
+{
+	font-size: 14px;
+}
+div#eventsList
+{
+	font-size: 14px;
+}
+div#commentsForEntry
+{
+	font-size: 14px;
+}
+div.servicesHubElement
+{
+	width:200px;
+	margin:10px 10px 10px 10px;
+	text-align:center;
+	display:inline-block;
+	background-color: #DDDDDD;
+	vertical-align: middle;
+	cursor: pointer;
+	padding: 5px;
+}
+div.service
+{
+	display:none;
+	width:1000px;
+	margin:20px auto;
+	padding:10px;
+	text-align:center;
+}
+div.serviceElement
+{
+	padding:5px 5px 5px 5px;
+	margin-top:10px;
+}
+div.dashed
+{
+	border-top:2px solid #888888;
+}
+div#manageUsersAndPasswords
+{
+	background-color: #FFFFFF;
+}
+div.userList
+{
+	font-size:14px; 
+	height:400px; 
+	overflow:auto; 
+	width:100%;
+	text-align:left;
+}
+div.useronthelist
+{
+	display:table-row;
+}
+div.tablecell
+{
+	display: table-cell;
+	padding: 5px;
+}
+div#userListTable
+{
+	display:table;
+	table-layout: fixed;
+	border-spacing: 2px;
+	width: 100%;
+}
+div#adveListTable
+{
+	display:table;
+	table-layout: fixed;
+	border-spacing: 2px;
+	width: 100%;
+}
+div.columnHeaderDiv
+{
+	background-color: #DDDDDD;
+	font-size: 16px;
+}
+div.smallColumn
+{
+	width:20px;
+}
+div#manageAdves
+{
+	background-color: #FFFFFF;
+}
+div#manageForum
+{
+	background-color: #FFFFFF;
+}
+div#manageEvents
+{
+	background-color: #FFFFFF;
+}
+p.serviceElementHeader
+{
+	font-style:italic;
+	font-size:24px;
+	margin-left:10px;
+	margin-top:5px;
+	text-align:left;
+}
+
+td.columnHeader
+{
+	 border-bottom:1px solid #000000;
+}
+table
+{
+	text-align:center;
+}
+button
+{
+	border:0px;
+	background-color: #DDDDDD;
+	padding: 5px;
+	margin: 2px;
+	cursor: pointer;
+}

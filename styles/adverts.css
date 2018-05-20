@@ -1,0 +1,16 @@
+body
+{
+	background-image: url('../images/adve/cork-1193770.jpg');
+}
+div#container
+{
+	margin:10px auto 10px auto;
+	padding:20px;
+	overflow: auto;
+}
+div#leftBelt
+{
+	float:left;
+	width:200px;
+	background-color: #FFFFFF;
+}

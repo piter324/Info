@@ -1,0 +1,11 @@
+Baza danych MySQL utworzona
+Dane Twojej bazy danych MySQL widoczne s¹ poni¿ej.
+Nazwa bazy danych :	db594127359
+Nazwa hosta :	db594127359.db.1and1.com
+Port :	3306
+Nazwa u¿ytkownika :	dbo594127359
+Opis :	info
+Wersja :	MySQL5.5
+Status :	Konfiguracja jest uruchamiana.
+
+Has³o: OtoPlatrforma13@$

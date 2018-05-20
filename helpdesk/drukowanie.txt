@@ -1,0 +1,10 @@
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Drukowanie bezpośrednio w akwarium - <a href='Przewodnik.pdf'>pobierz PDF</a></div>
+<div class='memberText'>
+<object class='articlePDF' data='Przewodnik.pdf' type='application/pdf'>
+Niestety twoja przeglądarka nie jest w stanie wyświetlić plików PDF. Co za szkoda :(
+</object>
+</div>
+</div>
+</div>

@@ -1,0 +1,60 @@
+button
+{
+	font-family: 'Noto Sans', sans-serif;
+	border:0px;
+	cursor: pointer;
+}
+.logInButton
+{
+	background-color: #AAAAAA;
+}
+.universalButton
+{
+	background-color: #CCCCCC;
+}
+.logOutButton
+{
+	background-color: #FF7D7D;
+}
+.confirmButton
+{
+	background-color: #8ACE0B;
+}
+.backButton
+{
+	background-color: #88C7F4;
+}
+.cancelButton
+{
+	background-color:	#FFA3A3;	
+}
+.bigButton
+{
+	font-size: 20px;
+	padding:12px 15px;
+	margin:10px;
+}
+.mediumButton
+{
+	font-size: 18px;
+	padding:8px 10px;
+	margin:8px;
+}
+.smallButton
+{
+	font-size: 16px;
+	padding:5px 8px;
+	margin:5px;
+}
+.calControlButton
+{
+	border: 0px;
+	padding:2px 5px;
+	font-size: 20px;
+	background-color:	#DCC6FC;
+	margin:0px 1px;
+}
+.centeredButton
+{
+	display: inline-block;
+}

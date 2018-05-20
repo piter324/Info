@@ -1,0 +1,53 @@
+body
+{
+	background-image: url('../images/backgrounds/settings-back.jpg');
+}
+div.settingsActions
+{
+	text-align: center;
+	margin:auto;
+}
+div.settingsAction
+{
+	display: inline-block;
+	vertical-align: middle;
+	width:150px;
+	height:150px;
+	text-align: center;
+	background-color: #DDDDDD;
+	padding: 15px;
+	font-size: 16px;
+	cursor: pointer;
+}
+div.settingsAction:hover
+{
+	background-color: #BBBBBB;
+}
+div#profileRoundup
+{
+	font-size: 24px;
+}
+div.marginedBottom
+{
+	margin-bottom: 5px;
+}
+h10
+{
+	font-size: 16px;
+}
+img#profiloweShowProfile
+{
+	width:150px; 
+	height:150px;
+	float:right;
+}
+div#changePass
+{
+	text-align: center;
+	margin-bottom: 20px;
+}
+input.settingsInput
+{
+	width:80%;
+	font-size: 20px;
+}

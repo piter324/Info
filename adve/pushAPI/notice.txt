@@ -1,0 +1,8 @@
+INDEX.PHP
+1. Create a variable $_SESSION['push_table'] equal to name of the table of which we want to check updates.
+2. Add push.js as a script src to <head>.
+3. Create a function pushAction() and put every function you need to call when update is available.
+4. Call updateTableSQL(tablename) function every time you update any table (with proper table name as the argument).
+
+PUSH.PHP
+1. 

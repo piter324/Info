@@ -1,0 +1,249 @@
+body
+{
+	background-image:url('../images/backgrounds/common-back.jpg');
+	background-repeat: repeat;
+	background-size: auto;
+}
+select#scope
+{
+	font-size: 26px;
+	width:300px;
+}
+p#pickScope
+{
+	font-size: 	30px;
+	margin:7px 0px;
+}
+div#container
+{
+	background-color:rgba(0,0,0,0);
+	width: 980px;
+	margin: 20px auto;
+}
+div#pickScopeContainer
+{
+	background-color: 	#FFFFFF;
+	padding: 10px;
+	overflow: auto;
+}
+div#timelineContainer
+{
+	background-color: 	#FFFFFF;
+	padding: 10px;
+	overflow: auto;
+	display: none;
+}
+div#timeline
+{
+	margin-top: 40px;
+}
+div#addEntryContainer
+{
+	width: 100%;
+	background-color: rgba();
+}
+textarea#addEntryText
+{
+	width:950px;
+	height:80px;
+	resize:none;
+	font-family: 'Noto Sans',sans-serif;
+}
+textarea.newCommentContent
+{
+	width:880px;
+	height:40px;
+	resize:none;
+	font-family: 'Noto Sans',sans-serif;
+	margin-top: 2px;
+}
+div#addEntryActions
+{
+	text-align: right;
+	margin-top: 10px;
+}
+div.linkInEntry
+{
+	text-align: center;
+	cursor: pointer;
+}
+div.commentItself
+{
+	margin-top:20px;
+}
+div.commentActionsDiv
+{
+	background-color: #DDDDDD;
+	padding:3px;
+}
+input.newCommentLinkText
+{
+	font-size: 14px;
+	width: 300px;
+	display: none;
+}
+input#newEntryLinkText
+{
+	width:300px;
+	display: none;
+}
+button#addEntryButton
+{
+	float:right;
+}
+button#addLinkToEntryButton
+{
+	
+}
+button.addCommentLinkButton
+{
+	font-size: 14px;
+}
+button.addCommentButton
+{
+	float: right;
+}
+button.addCommentButton
+{
+	cursor: pointer;
+}
+span.resultSpan
+{
+	margin-right: 5px;
+	margin-left: 5px;
+	font-size: 20px;
+}
+span.commentResultSpan
+{
+	margin-right: 2px;
+	margin-left: 2px;
+	font-size: 14px;
+}
+div.entryItself
+{
+	font-size: 16px;
+	margin-bottom: 40px;
+}
+div.entryText
+{
+	padding:5px;
+	vertical-align: top;
+}
+div.entryMeta
+{
+	#float:left;
+	background-color: #DDDDDD;
+	padding: 8px;
+	width:150px;
+	text-align: center;
+}
+div.entryPlusMinus
+{
+	padding: 5px;
+}
+div.entryActions
+{
+	margin-top: 0px;
+	background-color: #DDDDDD;
+}
+div.authorPictureDiv
+{
+	text-align: center;
+}
+div.commentActions
+{
+	cursor: pointer;
+	padding: 3px;
+	margin: 4px;
+}
+div.commentText
+{
+	vertical-align: top;
+}
+div.authorActions
+{
+	cursor: pointer;
+	padding: 3px;
+	margin: 4px;
+	margin-right: 20px;
+}
+div.commentAuthorActions
+{
+	cursor: pointer;
+	padding: 3px;
+	margin: 2px;
+	font-size: 14px;
+}
+div.entryCommentsCounter
+{
+	margin-left: 40px;
+}
+div.entryComments
+{
+	margin-left: 60px;
+	display: none;
+	border-right: 10px solid #DDDDDD;
+}
+div.rightFloatingActions
+{
+	float:right;
+	margin-right: 10px;
+}
+div.rightFloatingCommentActions
+{
+	float:right;
+}
+div.commentMeta
+{
+	font-size: 14px;
+}
+button#refreshEntriesButton
+{
+	float:right;
+	display: none;
+}
+img.commentAuthorPicture
+{
+	width: 40px;
+	height: 40px;
+}
+img.commentMarkButton
+{
+	width:15px;
+	height:15px;
+	margin-right: 3px;
+	margin-left: 3px;
+	margin-top:2px;
+	cursor: pointer;
+}
+img.authorPicture
+{
+	width: 80px;
+	height: 80px;
+}
+img.actionIcon
+{
+	width:20px;
+	height: 20px;
+	margin-right: 5px;
+}
+img.markButton
+{
+	width:20px;
+	height:20px;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top:2px;
+	cursor: pointer;
+}
+img.emoticon
+{
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+}
+img#refreshButtonIcon
+{
+	width: 30px;
+	height: 30px;
+}

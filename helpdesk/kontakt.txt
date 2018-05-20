@@ -1,0 +1,9 @@
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Jak skontaktować się z pomocą techniczną</div>
+<div class='memberText'>
+<p>Możesz napisać maila na adres: <a href='mailto:mail.infosalez@gmail.com'>mail.infosalez@gmail.com</a></p>
+<p>Możesz zgłosić się z pytaniem lub problemem do <b>Księdza Mirosława Hyżaka</b>, <b>Piotra Muzyczuka</b> lub <b>Macieja Gorczyckiego</b>. Zawsze staramy się pomóc w miarę naszych możliwości :)</p>
+</div>
+</div>
+</div>

@@ -1,0 +1,924 @@
+body
+{
+	margin: 0px 0px 0px 0px;
+	cursor:default;
+}
+/*::-webkit-scrollbar {
+    width: 8px;
+}
+ 
+::-webkit-scrollbar-track {
+    background-color:rgba(220,220,220,0.8);
+	border-radius: 8px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background-color:rgba(100,100,100,0.8); 
+}*/
+h4
+{
+	margin:2px;
+}
+div.padded5
+{
+	padding: 5px;
+	margin:2px;
+}
+div#upbelt
+{
+	padding-top: 10px;
+}
+div#upcontainer
+{
+	background-color:#FFFFFF;
+	width:100%;
+	text-align: center;
+	font-size: 18px;
+}
+div#underupbelt
+{
+	margin-top: 5px;
+	
+}
+div#menuBelt
+{
+	background-color: #FC9942;
+	padding: 5px;
+}
+div#otherFunctionsDiv
+{
+	display: inline-block;
+	vertical-align: middle;
+}
+div.otherFunction
+{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 10px;
+	cursor: pointer;
+}
+span#otherFunctions
+{
+	font-style: italic;
+}
+span.menuBeltElement
+{
+	color:#000000;
+	text-transform: lowercase;
+	padding: 10px;
+	cursor:pointer;
+}
+span.menuBeltElement:hover
+{
+	background-color: #FFBF87;
+}
+div.container
+{
+	margin:30px auto 30px auto;
+	padding:20px;
+	width:980px;
+	background-color:#FFFFFF;
+	overflow: auto;
+}
+div.calendarplusdetails
+{
+	overflow: auto;
+}
+div.calendar
+{
+	display: block;
+}
+div.eventListCanvas
+{
+	font-size: 14px;
+}
+div.selectedDayIntro
+{
+	display: table-cell;
+	vertical-align: middle;
+	margin-right:10px;
+	text-align: center;
+	width:200px;
+}
+div#eventList
+{
+	max-height:500px;
+	min-height: 250px;
+	overflow:auto;
+	display: table;
+	border-spacing: 3px;
+	vertical-align: middle;
+	table-layout: fixed;
+	width:100%;
+}
+div#eventlistClassContainer
+{
+	display: table-cell;
+	background-color: #EEEEEE;
+	padding:5px;
+}
+div#eventlistClassHeader
+{
+	background-color: rgba(147,201,255,1);
+	padding: 5px;
+}
+div.eventlistClass
+{
+	text-align:center;
+}
+div#eventlistIndivContainer
+{
+	display: table-cell;
+	background-color: #EEEEEE;
+	padding: 5px;
+}
+div#eventlistIndivHeader
+{
+	background-color: rgba(255,200,139,1);
+	padding: 5px;
+}
+div.eventlistIndiv
+{
+	text-align:center;
+}
+div#eventlistGroupContainer
+{
+	display: table-cell;
+	background-color: #EEEEEE;
+	padding: 5px;
+}
+div#eventlistGroupHeader
+{
+	background-color: rgba(203,244,82,1);
+	padding: 5px;
+}
+div.eventlistGroup
+{
+	text-align:center;
+}
+p.eventListContainerHeaderText
+{
+	font-weight: 600;
+	margin-top: 1px;
+}
+div.eventitselfClass
+{
+	background-color:rgba(70,200,255,1);
+	margin:auto 5px 10px 5px;
+	padding:0px 5px 0px 5px;
+	min-height:65px;
+}
+div.eventitselfIndividual
+{
+	background-color:rgba(255,200,139,1);
+	margin:auto 5px 10px 5px;
+	padding:0px 5px 0px 5px;
+	min-height:65px;
+}
+div.eventitselfGroup
+{
+	background-color:rgba(203,244,82,1);
+	margin:auto 5px 10px 5px;
+	padding:0px 5px 0px 5px;
+	min-height:65px;
+
+}
+div.interactionWindowButtons
+{
+	text-align: center;
+}
+div.ogloszenia
+{
+	background-color:rgba(100,100,200,0.8);
+	display:none;
+}
+div.ogloszeniauczniow
+{
+	background-color:rgba(100,100,100,0.8);
+	width:485px;
+	margin-right:30px;
+	float:left;
+}
+div.ogloszenianauidyr
+{
+	background-color:rgba(150,150,150,0.8);
+	width:485px;
+	float:right;
+}
+div.akcje
+{
+	margin-bottom:30px;
+	margin-top:30px;
+	text-align:center;
+	vertical-align:middle;
+}
+div.addcontent
+{
+	display:none;
+	position:fixed;
+	z-index:2;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	background-image:url('../images/black-back.png');
+}
+div.interactionwindow
+{
+	#position:fixed;
+	margin: auto auto auto auto;
+	background-color:rgba(255,255,255,1);
+	border: 1px solid black;
+	width:500px;
+	height:500px;
+	padding:20px;
+	z-index:3;
+}
+div.monthandyear
+{
+	font-size:32px;
+	text-align:center;
+}
+div.calendarcontrols
+{
+	margin-top:0px;
+	margin-bottom:2px;
+	text-align:center;
+}
+div.addEventCoveredClasses
+{
+	vertical-align:middle;
+	display:inline-block;
+	height:200px;
+	width:220px;
+	overflow:auto;
+	text-align:left;
+}
+div.addGroupCoveredPersons
+{
+	height:280px;
+	overflow:auto;
+	text-align:left;
+}
+div.addEventCoveredClassesList
+{
+	#position:relative;
+}
+div.addEventDate
+{
+	vertical-align:middle;
+	display:inline-block;
+	height:200px;
+	width:230px;
+	overflow:auto;
+	text-align:left;
+	padding-left:20px;
+}
+div.eventActionDiv
+{
+	position:absolute;
+	background-color:rgba(0,0,0,0.5);
+	margin:auto 5px 10px 5px;
+	padding:5px 5px 5px 5px;
+	text-align:center;
+	vertical-align:middle;
+}
+div.eventActionDivElement
+{
+	display:inline-block; 
+	width:50px;
+	height:50px;
+}
+div.groupList
+{
+	height:370px;
+	overflow:auto;
+	margin-top:0px;
+
+}
+div.groupItself
+{
+	font-size:16px;
+	width:100%;
+	margin-bottom:5px;
+}
+span.groupName
+{
+	text-align:left;
+}
+div.groupAction
+{
+	float:right;
+	text-align:right;
+}
+div.messengerBelt
+{
+	width:100%;
+	height:100vz;
+	display:block;
+	padding:5px 5px 5px 5px;
+	background-color:rgba(150,200,255,1);
+}
+div.menuBeltTrigger
+{
+	position:fixed;
+	top:0px;
+	right:0px;
+	width:125px;
+	z-index:2000;
+	background-color:#EEEEEE;
+}
+div.messengerBeltUserList
+{
+	
+}
+div.messengerBeltFavorites
+{
+	background-image:url('../images/favorites_star03.png');
+	background-repeat:no-repeat;
+	background-position:center center;
+	min-height:100px;
+}
+div.messagingCanvas
+{
+	position:fixed;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	padding-right:300px;
+	background-color:rgba(0,0,0,0.8);
+	display:none;
+}
+div#doUpdateDiv
+{
+	position: absolute;
+	top:0px;
+	right:0px;
+	padding: 5px;
+}
+div.inlinowe
+{
+	display:inline-block;
+	vertical-align:middle;
+}
+div.inlinowe.leftOne
+{
+	margin-right:5px;
+}
+div.menuBeltSection a{
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:5px 10px 5px 10px;
+}
+div.akcjemob
+{
+	display:none;
+}
+p.userName{
+	font-size:14px;
+	text-align:center;
+}
+
+div#userName
+{
+	text-align:center;
+	font-size:18px;
+	color:rgba(240,240,240,1);
+}
+img#companyUpperLogo
+{
+	display: none;
+}
+img#logoinfo
+{
+	width:440px;
+	height:200px;
+	margin-top:10px;
+	vertical-align:middle;
+}
+img#profiloweUpBelt
+{
+	margin-right:1em;
+	margin-left:1em;
+}
+img.editdeleteSmall
+{
+	width:10px;
+	height:10px;
+}
+img.profiloweSmall
+{
+	width:40px; 
+	height:40px; 
+}
+img.circularPhoto
+{
+	
+}
+img.closingXInHeader
+{
+	float:right;
+}
+img#refreshButtonIcon
+{
+	width:15px;
+	height: 15px;
+	margin-right: 2px;
+}
+.cbp-spmenu a#doinfobiblioteka {
+	display: block;
+	color: #fff;
+	font-size: 14px;
+	font-weight:normal;
+	background: rgba(120,56,184,1);
+}
+
+.cbp-spmenu a#doinfobiblioteka:hover {
+	background: rgba(140,76,204,1);
+}
+td.nazwydni
+{
+	background-color:rgba(203,181,251,1);
+	height:40px;
+	text-align:center;
+	vertical-align:middle;
+	font-size:14px;
+}
+table#calendar
+{
+	border-spacing:1px;
+	width:100%;
+	table-layout: fixed;
+}
+td.dzien
+{
+	text-align:right;
+	vertical-align:top;
+	height:80px;
+}
+td.roboczy
+{
+	background-color:rgba(255,255,255,0.8);
+	padding:0px 5px 0px 5px;
+}
+td.sobota
+{
+	background-color:rgba(200,200,200,0.8);
+	padding:0px 5px 0px 5px;
+}
+td.niedziela
+{
+	background-color:rgba(255,65,65,0.8);
+	padding:0px 5px 0px 5px;
+}
+td.nieobecny
+{
+	background:none;
+}
+td.todayDay
+{
+	background-color:rgba(128,128,255,1);
+	color:rgba(255,255,255,1);
+}
+td.selectedDay
+{
+	background: repeating-linear-gradient(
+ 		45deg,
+  		#A6BEFF,
+  		#A6BEFF 10px,
+  		#7A9EFF 10px,
+  		#7A9EFF 20px
+	);
+}
+p#filterFieldPara
+{
+	#float:right;
+}
+p.nrdnia
+{
+	margin-top:5px;
+	font-size:18px;
+}
+p.eventlistSectionHeader
+{
+	margin-bottom:0px;
+	letter-spacing:2px;
+	font-size:16px;
+}
+p.eventdate
+{
+	font-size:32px;
+	margin-top:15px;
+	margin-bottom:0px;
+}
+p.eventdayoftheweek
+{
+	margin-top:0px;
+	letter-spacing:2px;
+}
+p.eventtext
+{
+	text-align:left;
+	margin-bottom:5px;
+	font-size:18px;
+}
+p.eventmetadata
+{
+	margin-top:0px;
+	text-align:right;
+	font-size:14px;
+}
+p.eventdetails
+{
+	font-style:italic;
+}
+p.classevent
+{
+	font-size:13px;
+	text-align:center;
+	margin: 20px 0px 5px 0px;
+	background-color:rgba(147,201,255,1);
+}
+p.individualevent
+{
+	font-size:13px;
+	text-align:center;
+	margin: 0px 0px 5px 0px;
+	background-color:rgba(255,200,139,1);
+}
+p.groupevent
+{
+	font-size:13px;
+	text-align:center;
+	margin: 0px 0px 5px 0px;
+	background-color:rgba(203,244,82,1);
+}
+p.replacementsInCal
+{
+	font-size:13px;
+	text-align:center;
+	margin: 10px 0px 5px 0px;
+	background-color:rgba(255,220,235,0.9);
+}
+p.interactionWindowHeader
+{
+	font-size:36px;
+	margin: 10px;
+	text-align: center;
+}
+div.interactionWindowContent
+{
+	font-size:16px;
+}
+p.addEventElement
+{
+	
+}
+p.addEventDateElement
+{
+	margin-top:2px;
+	margin-bottom:2px;
+}
+p.dzisiaj
+{
+	text-align:center;
+	margin: -15px 10px 0px 10px;
+	font-weight:bold;
+	background-color:rgba(190,255,128,0.8);
+}
+p.eventActionDivDescription
+{
+	font-size:12px; 
+	margin-top:0px; 
+	margin-bottom:0px;
+	color:rgba(255,255,255,1);
+}
+p.noEventInfo
+{
+	font-style:italic;
+	text-align:center;
+	margin-top:50px;
+}
+p.welcomeUsernameActionElement
+{
+	width:100%;
+	text-align:center;
+	margin:5px 0px 0px 0px;
+}
+p.welcomeUsernameActionElement:hover
+{
+	font-weight:bold;
+}
+p.messengerBeltHeader
+{
+	font-weight:bold;
+	font-size:18px;
+}
+p.messengerBeltUser
+{
+	#border:1px solid black;
+	padding:5px 5px 5px 5px;
+	margin-bottom:0px;
+	margin-top:0px;
+	min-height:40px;
+	vertical-align:middle;
+	font-size:16px;
+}
+p.czlonkowiegrupyHeader
+{
+ margin-bottom:0px; 
+ margin-top:10px;
+}
+p.noBottomMargin
+{
+	margin-bottom:0px;
+}
+span.nazwa
+{
+	color:rgba(255,255,255,1);
+	margin-left:10px;
+	vertical-align:middle;
+	display:inline-block;
+}
+input#nazwagrupy
+{
+	width:300px;
+}
+span.welcomeUsername
+{
+	margin-right:50px;
+}
+span#dataimieniny
+{
+	margin-right:50px;
+}
+span.inlinowe
+{
+	vertical-align:middle;
+}
+a:link
+{
+	text-decoration:none;
+}
+a:hover
+{
+	font-weight:bold;
+}
+img.logo
+{
+	height:180px;
+	margin-top:10px;
+	vertical-align:middle;
+}
+button#pokazminusy
+{
+	border:1px solid #8888AA;
+	
+}
+#addClassEventButton
+{
+	background-color:rgba(147,201,255,1);
+	margin-right:	5px;
+}
+#addGroupEventButton
+{
+	background-color:rgba(203,244,82,1);
+	margin-right:	5px;
+}
+#addIndivEventButton
+{
+	background-color:rgba(255,200,139,1);
+}
+#addReplacement
+{
+	background-color:#FFB4FF;
+}
+span.deletingFromFavorites
+{
+	margin-left:5px;
+	display:none;
+}
+div.conversationWindowContainer
+{
+	display:none;
+	width:500px;
+	height:610px;
+	margin:0px auto 0px auto;
+	padding:0px 0px 0px 0px;
+}
+div.conversationWindow
+{
+	border: 1px solid black;
+	background-color:rgba(255,255,255,1);
+	padding:10px 10px 10px 10px;
+	height:100%;
+}
+textarea.newMessageText
+{
+	width:472px;
+	height:80px;
+	resize:none;
+	font-family:Trebuchet MS;
+}
+textarea#eventdetails
+{
+	width:350px;
+	height:120px;
+}
+div.recipientName
+{
+	background: -webkit-linear-gradient(to top, rgba(0,84,166,0.8) 0%, rgba(0,84,166,0) 100%);
+	background: -o-linear-gradient(to top, rgba(0,84,166,0.8) 0%, rgba(0,84,166,0) 100%);
+	background: -moz-linear-gradient(to top, rgba(0,84,166,0.8) 0%, rgba(0,84,166,0) 100%);
+	background: linear-gradient(to top, rgba(0,84,166,0.8) 25%, rgba(0,84,166,0) 100%);
+	color:#FFFFFF;
+	font-size:18px;
+	padding:10px 10px 10px 10px;
+	margin-bottom:0px;
+}
+div.writingMessage
+{
+	width:100%;
+	height:120px;
+}
+div.listedMessages
+{
+	padding-bottom:10px;
+	font-size:14px;
+	height:480px;
+	overflow:auto;
+}
+div.sentMessage
+{
+	text-align:right;
+}
+div.receivedMessage
+{
+	text-align:left;
+}
+span.unreadMessageText
+{
+	font-weight:bold;
+	max-width:20px;
+}
+span.readMessageText
+{
+	max-width:400px;
+}
+
+
+div.inbox
+{
+	width:100%;
+	padding:5px 5px 5px 5px;
+	margin-bottom:10px;
+}
+p.inboxHeader
+{
+	text-align:center;
+	font-size:20px;
+	font-weight:bold;
+}
+p.recipientInfoHeader
+{
+	font-weight:bold;
+	font-size:16px;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+div.messagesList
+{
+	background-image:url('../images/envelope20proc.png');
+	background-repeat:no-repeat;
+	background-position:center center;
+	min-height:80px;
+}
+div.recipientInfo
+{
+	display:inline-block; 
+	margin-left:10px;
+	vertical-align:middle;
+	max-width:220px;
+}
+div.recipientPhoto
+{
+	display:inline-block;
+	vertical-align:middle;
+}
+div#nameOfTheRecipient
+{
+	width:450px;
+}
+div#infoAboutColors
+{
+	width:100%;
+}
+img.emoticon
+{
+	width:25px;
+	height:25px;
+}
+div.replacements
+{
+	#width:100%;
+	font-size:16px;
+	background-color:rgba(255,220,235,0.9);
+	padding:5px 5px 5px 5px;
+	display: none;
+}
+div#replacementsContent
+{
+	
+}
+div#replacementsList
+{
+	margin-top:5px;
+	background-color:rgba(255,255,255,0.5);
+	width:100%;
+	text-align:center;
+	display:table;
+}
+div#tableHeader
+{
+	font-weight:bold;
+	display:table-row;
+}
+div.replacementItself
+{
+	display:table-row;
+}
+div.lessonNumber
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:5%;
+}
+div.roomNumber
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:5%;
+}
+div.replaced
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:30%;
+}
+div.replacing
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:30%;
+}
+div.replacementScope
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:10%;
+}
+div.replacementSubject
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:12%;
+}
+div.replacementEditDelete
+{
+	display:table-cell;
+	vertical-align:middle;
+	width:8%;
+}
+div.replacementAction:hover
+{
+	font-weight:bold;
+}
+div#filteringReplacements
+{
+	background-color:rgba(255,255,255,0.5);
+	text-align:center;
+	display:none;
+}
+div#replacementsTitle
+{
+	font-size:26px;
+	text-align:left;
+	margin-bottom:20px;
+}
+div#akcjaZast
+{
+	text-align:center;
+	display: none;
+}
+p.noReplacementsInfo
+{
+	font-style:italic;
+	padding-top:2em;
+	padding-bottom:2em;
+}
+input#peopleFilterTB
+{
+	width:150px;
+}

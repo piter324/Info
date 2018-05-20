@@ -1,0 +1,75 @@
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Logowanie do domeny po raz pierwszy</div>
+<div class='memberText'>
+<p><ol>
+<li>Włączamy komputer podłączony wcześniej do domeny.</li>
+<li>Wciskamy Ctrl+Alt+Delete.</li>
+<li>Wpisujemy swoją nazwę użytkownika (<b>imie.nazwisko</b> małymi literami i bez polskich znaków).</li>
+<li>Wpisujemy hasło startowe: <b>12345678</b></li>
+<li>Upewniamy się, że (po kliknięciu „Opcje>>” w Windows XP) obok „Zaloguj do:” widzimy <b>„SDB”</b></li>
+<li>Wciskamy Enter.</li>
+<li>Wpisujemy nowe hasło w dwa pola (co najmniej 8 znaków).</li>
+<li>Znów Enter.</li>
+<li>Cieszymy się z powodzenia :)</li>
+</ol>
+</p>
+<p style='margin-top:1em'><b>UWAGA!</b> Jeśli logowałeś/aś się już po raz pierwszy, przejdź do standardowej procedury logowania.</p>
+<p style='text-align:center; margin-top:1em'><img src='images/firstlogin.png'></img></p>
+</div>
+</div>
+</div>
+
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Standardowa procedura logowania do domeny</div>
+<div class='memberText'>
+<p><ol>
+<li>Włączamy komputer podłączony wcześniej do domeny (większość w szkole).</li>
+<li>Wciskamy Ctrl+Alt+Delete.</li>
+<li>Wpisujemy swoją nazwę użytkownika (<b>imie.nazwisko</b> małymi literami i bez polskich znaków).</li>
+<li>Wpisujemy swoje hasło (to, które ustawiliśmy przy pierwszym logowaniu).</li>
+<li>Upewniamy się, że (po kliknięciu „Opcje>>” w Windows XP) obok „Zaloguj do:” widzimy „<b>SDB</b>”.</li>
+<li>Wciskamy Enter.</li>
+<li>Cieszymy się z powodzenia :)</li>
+</ol>
+</p>
+<p style='margin-top:1em'><b>UWAGA!</b> Jeśli nie logowałaś/eś się po raz pierwszy do domeny (tj. nie ustawiałaś/eś swojego hasła), skorzystaj z procedury pierwszego logowania.</p>
+<p style='text-align:center; margin-top:1em'><img src='images/login.png'></img></p>
+</div>
+</div>
+</div>
+
+<div class='contentMember'>
+<div class='memberContents'>
+<div class='memberTitle'>Awaryjna procedura logowania</div>
+<div class='memberText'>
+<p>Jeśli po kilku próbach, nie możemy zalogować się do domeny, istnieje możliwość, iż system chwilowo odmówił posłuszeństwa. W tej sytuacji można zalogować się na komputer przy użyciu użytkownika lokalnego. Przy takim postępowaniu trzeba mieć na uwadze, że będziemy mogli korzystać z komputera, ale niestety bez dostępu do sieci, a więc i internetu. </p>
+<p>Aby to uskutecznić w Windows XP, należy:
+<ol>
+<li>Włączyć komputer.</li>
+<li>Wcisnąć klawisze Ctrl+Alt+Delete, gdy system o to poprosi.</li>
+<li>W nazwie użytkownika wpisać: <b>User</b></li>
+<li>Hasło wpisać zgodnie z tabelą haseł użytkowników lokalnych, która wisi na tablicy nad komputerem w pokoju nauczycielskim.</li>
+<li>W polu „Zaloguj do:” wybrać: <b>SALEZ-XXX (ten komputer)</b></li>
+<li>Wcisnąć OK bądź Enter.</li>
+<li>Cieszyć się z powodzenia :)</li>
+</ol>
+
+Aby to uskutecznić w Windows Vista i wyższych, należy:
+<ol>
+<li>Włączyć komputer.</li>
+<li>Wcisnąć klawisze Ctrl+Alt+Delete, gdy system o to poprosi.</li>
+<li>Kliknąć <b>Przełącz użytkownika</b>, a następnie <b>Inny użytkownik</b>.</li>
+<li>W nazwie użytkownika wpisać: <b>SALEZ-XXX\User</b> (w miejsce XXX należy podać numer sali, np. 023 lub 107.</li>
+<li>Hasło wpisać zgodnie z tabelą haseł użytkowników lokalnych, która wisi na tablicy nad komputerem w pokoju nauczycielskim.</li>
+<li>Wcisnąć OK bądź Enter.</li>
+<li>Cieszyć się z powodzenia :)</li>
+</ol>
+
+</p>
+<p style='margin-top:1em'><b>UWAGA!</b> Używaj tej procedury z rozwagą. Po włączeniu komputera daj mu 2-5 minut na poprawne połączenie z serwerami. Także wykonaj kilka prób dla pewności, że rzeczywiście system działa niepoprwanie. Dopiero przy 100% pewności wystąpienia awarii przystąp do logowania awaryjną metodą.</p>
+<p style='text-align:center; margin-top:1em'><img src='images/brokenlogin.png'></img></p>
+</div>
+</div>
+</div>
